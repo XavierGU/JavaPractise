@@ -1,4 +1,4 @@
-import java.util.Random;
+import java.util.Arrays;
 
 public class Oct30th2018 {
     /* public static void main(String[] args) {
@@ -94,5 +94,6 @@ public class COMP1100Student extends Student{
             System.out.println(v);
         }
     }*/
+
 }
 
