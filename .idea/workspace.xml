@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practise/src/Nov1st2018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/Nov2nd2018.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,24 +25,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="15" />
+          <entry key="java" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="15" />
+          <entry key="JAVA" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4008" />
-          <entry key="txt" value="15" />
+          <entry key="java" value="5109" />
+          <entry key="txt" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4008" />
-          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="JAVA" value="5109" />
+          <entry key="PLAIN_TEXT" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -87,10 +87,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practise/src/Nov1st2018.java">
+        <entry file="file://$PROJECT_DIR$/practise/src/Nov2nd2018.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+            <state relative-caret-position="-608">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,6 +125,7 @@
         <option value="$PROJECT_DIR$/practise/src/lambda.java" />
         <option value="$PROJECT_DIR$/practise/src/Oct31st2018.java" />
         <option value="$PROJECT_DIR$/practise/src/Nov1st2018.java" />
+        <option value="$PROJECT_DIR$/practise/src/Nov2nd2018.java" />
       </list>
     </option>
   </component>
@@ -169,7 +170,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541077235274" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541166160285" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -184,9 +185,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Nov1st2018">
+  <component name="RunManager" selected="Application.Nov2nd2018">
     <configuration name="Nov1st2018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Nov1st2018" />
+      <module name="practise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nov2nd2018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov2nd2018" />
       <module name="practise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -206,13 +214,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="practise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambda" />
       <module name="practise" />
@@ -222,18 +223,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Oct30th2018" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.lambda" />
       <item itemvalue="Application.Oct31st2018" />
       <item itemvalue="Application.Nov1st2018" />
+      <item itemvalue="Application.Nov2nd2018" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Nov2nd2018" />
         <item itemvalue="Application.Nov1st2018" />
         <item itemvalue="Application.Oct31st2018" />
         <item itemvalue="Application.Oct30th2018" />
         <item itemvalue="Application.lambda" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +250,7 @@
       <updated>1539212949722</updated>
       <workItem from="1540856321862" duration="8863000" />
       <workItem from="1540961723315" duration="1619000" />
-      <workItem from="1541034260040" duration="6252000" />
+      <workItem from="1541034260040" duration="12006000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -258,11 +259,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540989345995</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Nov1st2018">
+      <created>1541077518148</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541077518148</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20967000" />
+    <option name="totallyTimeSpent" value="26721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -278,7 +286,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32340425" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32340425" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -286,7 +294,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -307,7 +315,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Oct31st2018" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oct31st2018" />
+    <MESSAGE value="Nov1st2018" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nov1st2018" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/practise/src/oct10th18.java">
@@ -401,7 +410,17 @@
     <entry file="file://$PROJECT_DIR$/practise/src/Nov1st2018.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
-          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+          <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/Nov2nd2018.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-608">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
