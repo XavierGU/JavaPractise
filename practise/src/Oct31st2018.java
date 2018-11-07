@@ -45,9 +45,9 @@ public class Oct31st2018 {
             System.out.println(i);
             }
         }*/
-    public static int makeNegative(final int x) {
+   /* public static int makeNegative(final int x) {
         return x < 0 ? x : -x;
-    }
+    }*/
 }
 
 
