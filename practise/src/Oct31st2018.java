@@ -45,45 +45,10 @@ public class Oct31st2018 {
             System.out.println(i);
             }
         }*/
-/* public static void main(String[] args) {
-        double finalIncome = 0;
-        double P = 12000;
-        double yearRate = 0.05;
-        int yearNum = 0;
-        for (yearNum=0;finalIncome<1000000;yearNum++){
-            finalIncome=P*((1+yearRate)*yearNum) ;
-            if (finalIncome==1000000)
-                break;
-        }
-        System.out.println(yearNum);
-    }*/
-    /*public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int pin, entry;
-        pin=12345;
-        System.out.println("Welcome");
-        System.out.println("enter your pin");
-        entry = in.nextInt();
-        while(entry!=pin){
-            System.out.println("try again");
-            entry=in.nextInt();
-        }
-        System.out.println("cool!");
-    }*/
-
-
-    
+    public static int makeNegative(final int x) {
+        return x < 0 ? x : -x;
+    }
 }
-
-
-
-
-
-
-
-
-
-
 
 
 
