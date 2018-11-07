@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Nov7th2018 {
     /*public class Item {
         String name;
@@ -68,4 +70,44 @@ public class Nov7th2018 {
         h2.name = "寒冰";
         QY.heal(h1,40);
     }*/
-}
+/*    public static void main(String[] args) {
+        Scanner keyboard = new Scanner(System.in);
+        int current, total = 0;
+        do {
+            System.out.println("Value: ");
+            current = keyboard.nextInt();
+            total+=current;
+            System.out.println("The total so far is: "+total);
+        }while (current!=0);
+        System.out.println("The final total is: "+total);
+    }*/
+  /*  public static void main(String[] args) {
+        System.out.println("Here");
+        erebor();
+        System.out.println("Back");
+        erebor();
+        System.out.println("Back again");
+    }
+    public static void erebor(){
+        System.out.println("There");
+    }*/
+  /*  public static void main(String[] args) {
+        double a, g;
+        String tws = "A triangle with sides has area ";
+        a = triangleArea(3, 3, 3);
+        System.out.println("a has area " + a);
+        a = triangleArea(3, 4, 5);
+        System.out.println("a has area " + a);
+        g = triangleArea(7, 8, 9);
+        System.out.println(tws + g);
+        System.out.println(tws+triangleArea(6,8,10));
+    }
+        public static double triangleArea(int a, int b ,int c){
+        double s,A;
+        s = (a+b+c)/2;
+        A= Math.sqrt(s*(s-a)*(s-b)*(s-c));
+        return A;
+        }*/
+    }
+
+
