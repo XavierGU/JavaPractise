@@ -1,12 +1,11 @@
 public class Hero {
-    public String name;
-    public float hp;
-    public int damage;
-    public Hero(){}
-    public  Hero(String name){
-        this.name = name;
-    }
-    public String toString(){
-        return name;
+    String name;
+    float hp;
+    float armor;
+    int moveSpeed;
+
+    public static void main(String[] args) {
+        new Hero();
+        Hero h = new Hero();
     }
 }

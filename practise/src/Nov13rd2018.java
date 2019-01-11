@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-
-public class Nov13rd2018 extends Hero {
+/*
+public class Nov13rd2018 extends Hero {*/
  /*   public static void main(String[] args) {
 
 
@@ -25,6 +25,7 @@ public class Nov13rd2018 extends Hero {
      heros.add(new Hero("提莫"));
      System.out.println(heros.size());
  }*/
+/*
  public static void main(String[] args) {
      ArrayList heroes = new ArrayList();
      for (int i =0;i<5;i++){
@@ -39,3 +40,4 @@ public class Nov13rd2018 extends Hero {
 
  }
 }
+*/
