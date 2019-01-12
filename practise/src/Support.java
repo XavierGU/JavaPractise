@@ -7,7 +7,6 @@ public class Support extends Hero {
             System.out.println(name+"治疗了"+heroes[i].name);
         }
     }
-
     public static void main(String[] args) {
         Support soroka = new Support();
         soroka.name = "索拉卡";
