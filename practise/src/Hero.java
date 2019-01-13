@@ -5,19 +5,22 @@ public class Hero {
     float hp;
     float armor;
     int moveSpeed;
-    public Hero(){}
-    public Hero(String name){
-        this.name = name;
+
+    public Hero() {
     }
-    public Hero(String name, float hp, float armor, int moveSpeed){
-        this(name);
+    public void heal(int red){
+        hp = hp+red;
+        red = 0;
+    }
+    public Hero(String name, float hp){
+        this.name = name;
         this.hp = hp;
-        this.armor = armor;
-        this.moveSpeed = moveSpeed;
     }
 
     public static void main(String[] args) {
-        Hero Tww = new Hero("teemo",350,54,255);
-        System.out.println(Tww.name);
+        Hero teemo = new Hero("teemo",353);
+        int red = 100;
+        teemo.heal(red);
+        System.out.println(red);
     }
 }

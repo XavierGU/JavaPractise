@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practise/src/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Support.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/Support.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,12 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practise/src/Hero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-              <folding>
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="345">
+              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -107,7 +100,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,12 +117,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547375435730" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547375455997" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
@@ -221,7 +214,8 @@
       <workItem from="1547299985028" duration="799000" />
       <workItem from="1547371448666" duration="163000" />
       <workItem from="1547372023127" duration="94000" />
-      <workItem from="1547372893703" duration="2460000" />
+      <workItem from="1547372893703" duration="2529000" />
+      <workItem from="1547392355654" duration="1006000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -251,11 +245,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547212461926</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Jan13th2018">
+      <created>1547375454341</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1547375454341</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58629000" />
+    <option name="totallyTimeSpent" value="59704000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -270,7 +271,7 @@
     <frame x="0" y="0" width="1920" height="1030" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2863248" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28952992" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -311,7 +312,8 @@
     <MESSAGE value="Nov1st2018" />
     <MESSAGE value="Nov9th2018" />
     <MESSAGE value="Jan11st2018" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jan11st2018" />
+    <MESSAGE value="Jan13th2018" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jan13th2018" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/practise/src/oct10th18.java">
@@ -484,12 +486,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/Hero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="345">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
         </state>
       </provider>
     </entry>
