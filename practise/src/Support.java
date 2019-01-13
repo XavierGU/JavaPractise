@@ -1,3 +1,5 @@
+/*
+
 public class Support extends Hero {
     public void heal(){
         System.out.println(name +"不知道治疗了谁");
@@ -18,3 +20,4 @@ public class Support extends Hero {
     }
 }
 
+*/
