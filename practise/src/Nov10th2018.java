@@ -39,7 +39,7 @@ public class ADAPHero extends Hero implements AD,AP{
 public interface AD {
     public void physicAttack();
 }
-public class Item {
+public class property.Item {
     String name;
     int price;
     public void buy(){
@@ -49,7 +49,7 @@ public class Item {
         System.out.println("有效果");
     }
     public static void main(String[] args) {
-        Item i = new Item();
+        property.Item i = new property.Item();
         i.effect();
         lifePotion lf = new lifePotion();
         lf.effect();
@@ -57,12 +57,12 @@ public class Item {
         mp.effect();
     }
 }
-public class manaPotion extends Item {
+public class manaPotion extends property.Item {
     public void effect(){
         System.out.println("可以回魔法");
     }
 }
-public class lifePotion extends Item {
+public class lifePotion extends property.Item {
     public void effect(){
         System.out.println("可以回血");
     }
@@ -72,7 +72,7 @@ public class Hero {
     float hp;
     float armor;
     int moveSpeed;
-    public void useItem(Item i ){
+    public void useItem(property.Item i ){
         i.effect();
     }
     public static void main(String[] args) {

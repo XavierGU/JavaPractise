@@ -1,4 +1,6 @@
-public class Armor extends Item{
+import property.Item;
+
+public class Armor extends Item {
     int ac;
 
     public static void main(String[] args) {

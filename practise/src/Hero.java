@@ -1,4 +1,5 @@
 
+/*
 
 public class Hero {
     String name;
@@ -23,4 +24,4 @@ public class Hero {
         teemo.heal(red);
         System.out.println(red);
     }
-}
+}*/

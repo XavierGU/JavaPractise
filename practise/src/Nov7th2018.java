@@ -1,19 +1,19 @@
 import java.util.Scanner;
 
 public class Nov7th2018 {
-    /*public class Item {
+    /*public class property.Item {
         String name;
         int price;
     }
-    public class Weapon extends Item {
+    public class property.Weapon extends property.Item {
         int damage;
         public static void main(String[] args) {
-            Weapon duoLan = new Weapon();
+            property.Weapon duoLan = new property.Weapon();
             duoLan.damage = 10;
             duoLan.name = "DUOLAN";
             duoLan.price = 470;
         }
-        public class Armor extends Item {
+        public class Armor extends property.Item {
             int aLevel;
             public static void main(String[] args) {
                 Armor suoZiJia = new Armor();
