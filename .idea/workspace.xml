@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practise/src/character/ADHero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practise/src/character/Hero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/AD.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/AD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Armor.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/Armor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/property/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Nov10th2018.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/Nov10th2018.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Nov7th2018.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/Nov7th2018.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/property/Weapon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/src/character/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/character/Hero.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practise/src/character/Hero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="180">
+              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -164,7 +156,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547450145762" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547451387517" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
@@ -180,17 +172,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Hero">
-    <configuration name="ADHero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ADHero" />
+  <component name="RunManager" selected="Application.Hero (1)">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="practise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+    <configuration name="Hero (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="character.Hero" />
       <module name="practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="character.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -218,18 +216,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Hero" />
-      <item itemvalue="Application.ADHero" />
       <item itemvalue="Application.Nov13rd2018" />
       <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.Support" />
+      <item itemvalue="Application.Hero (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hero (1)" />
         <item itemvalue="Application.Hero" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.Support" />
         <item itemvalue="Application.Nov13rd2018" />
-        <item itemvalue="Application.ADHero" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +255,7 @@
       <workItem from="1547372023127" duration="94000" />
       <workItem from="1547372893703" duration="2529000" />
       <workItem from="1547392355654" duration="1298000" />
-      <workItem from="1547449602353" duration="569000" />
+      <workItem from="1547449602353" duration="1320000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -301,11 +299,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547394981551</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Jan14th2018-001">
+      <created>1547450170712</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1547450170713</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60565000" />
+    <option name="totallyTimeSpent" value="61316000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -318,6 +323,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1030" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29273504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -553,8 +559,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/character/Hero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        <state relative-caret-position="180">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
         </state>
       </provider>
     </entry>

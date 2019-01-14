@@ -1,4 +1,4 @@
-import property.Item;
+/*import property.Item;
 
 public class Armor extends Item {
     int ac;
@@ -12,5 +12,5 @@ public class Armor extends Item {
         suozijia.name = "suozijia";
         suozijia.price = 500;
         suozijia.ac = 40;
-    }
-}
+    }*/
+
