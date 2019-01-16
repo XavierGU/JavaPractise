@@ -1,3 +1,4 @@
+/*
 package character;
 
 public class testHero {
@@ -11,3 +12,4 @@ public class testHero {
         System.out.println(g2 == g3);
     }
 }
+*/
