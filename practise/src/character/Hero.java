@@ -1,32 +1,28 @@
 package character;
+
+
 import property.Item;
-import property.magicPotion;
-import property.lifePotion;
 
 public class Hero {
    String name;
    float hp;
    float armor;
    int movespeed;
-    public void useItem(Item i){
-        i.effect();
-    }
-    public void kill(mortal m){
-        m.die();
+ public void useItem(Item i){
+     System.out.println("hero use item");
+     i.effect();
+ }
+ /*public Hero(){
+     System.out.println("hero 的方法");
+ }*/
+ public Hero(String name){
+     System.out.println("Hero 的方法，有一个参数");
+     name = "king";
+     this.name = name;
 
+ }
+
+    public static void main(String[] args) {
+        new Hero("de");
     }
-   public static void main(String[] args) {
-     Hero garen = new Hero();
-     garen.name = "gailun";
-     lifePotion lp = new lifePotion();
-     magicPotion mp = new magicPotion();
-     garen.useItem(lp);
-     garen.useItem(mp);
-     ADHero AD = new ADHero();
-     APHero AP = new APHero();
-     ADAPHero ADAP = new ADAPHero();
-     garen.kill(AD);
-     garen.kill(AP);
-     garen.kill(ADAP);
-   }
 }

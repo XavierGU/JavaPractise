@@ -1,6 +1,6 @@
 package character;
 
-public class ADAPHero extends Hero implements AD,AP, mortal{
+/*public class ADAPHero extends Hero implements AD,AP, mortal{
     @Override
     public void physicalAttck() {
         System.out.println("物理攻击！");
@@ -15,5 +15,4 @@ public class ADAPHero extends Hero implements AD,AP, mortal{
     public void die() {
         System.out.println("ADAP DIED");
 
-    }
-}
+    }*/

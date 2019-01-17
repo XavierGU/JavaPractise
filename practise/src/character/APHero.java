@@ -1,3 +1,4 @@
+/*
 package character;
 
 public class APHero extends Hero implements AP, mortal{
@@ -12,3 +13,4 @@ public class APHero extends Hero implements AP, mortal{
 
     }
 }
+*/
