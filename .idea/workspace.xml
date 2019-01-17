@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/practise/src/character/mortal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/property/lifePotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/property/magicPotion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/src/character/ADAPHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/character/ADAPHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/src/character/ADHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/character/ADHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/src/character/APHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/character/APHero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practise/src/character/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/character/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/testHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/character/testHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/src/property/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/property/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/src/property/testItem.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,10 +23,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practise/src/HelloWorld.java">
+        <entry file="file://$PROJECT_DIR$/practise/src/property/Item.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="285">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+              <folding>
+                <element signature="e#97#98#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -27,20 +40,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practise/src/character/Hero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="315">
+              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practise/src/character/testHero.java">
+        <entry file="file://$PROJECT_DIR$/practise/src/character/mortal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#0#286#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -48,21 +63,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practise/src/character/ADHero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="150">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
               <folding>
                 <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practise/src/character/AP.java">
+        <entry file="file://$PROJECT_DIR$/practise/src/property/magicPotion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            <state relative-caret-position="60">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+              <folding>
+                <element signature="e#83#84#0" expanded="true" />
+                <element signature="e#119#120#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,11 +89,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practise/src/character/APHero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="150">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
               <folding>
                 <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#148#149#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,45 +102,27 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practise/src/character/ADAPHero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="225">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
               <folding>
                 <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
                 <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practise/src/character/SPHero.java">
+        <entry file="file://$PROJECT_DIR$/practise/src/property/lifePotion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="60">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
               <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#82#83#0" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practise/src/character/Healer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practise/src/character/AD.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -145,8 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practise/src/person.java" />
-        <option value="$PROJECT_DIR$/practise/src/Gender.java" />
         <option value="$PROJECT_DIR$/practise/src/Student.java" />
         <option value="$PROJECT_DIR$/practise/src/Person.java" />
         <option value="$PROJECT_DIR$/practise/src/COMP1100Student.java" />
@@ -181,19 +180,22 @@
         <option value="$PROJECT_DIR$/practise/src/character/TestGIantDragon.java" />
         <option value="$PROJECT_DIR$/practise/src/character/GiantDragon.java" />
         <option value="$PROJECT_DIR$/practise/src/property/testItem.java" />
-        <option value="$PROJECT_DIR$/practise/src/property/Item.java" />
         <option value="$PROJECT_DIR$/practise/src/heroType.java" />
         <option value="$PROJECT_DIR$/practise/src/HelloWorld.java" />
         <option value="$PROJECT_DIR$/practise/src/physicalAttack.java" />
         <option value="$PROJECT_DIR$/practise/src/AD.java" />
         <option value="$PROJECT_DIR$/practise/src/character/AD.java" />
-        <option value="$PROJECT_DIR$/practise/src/character/ADHero.java" />
         <option value="$PROJECT_DIR$/practise/src/character/AP.java" />
-        <option value="$PROJECT_DIR$/practise/src/character/APHero.java" />
-        <option value="$PROJECT_DIR$/practise/src/character/ADAPHero.java" />
         <option value="$PROJECT_DIR$/practise/src/character/Healer.java" />
         <option value="$PROJECT_DIR$/practise/src/character/SPHero.java" />
         <option value="$PROJECT_DIR$/practise/src/character/testHero.java" />
+        <option value="$PROJECT_DIR$/practise/src/property/lifePotion.java" />
+        <option value="$PROJECT_DIR$/practise/src/property/magicPotion.java" />
+        <option value="$PROJECT_DIR$/practise/src/property/Item.java" />
+        <option value="$PROJECT_DIR$/practise/src/character/mortal.java" />
+        <option value="$PROJECT_DIR$/practise/src/character/ADHero.java" />
+        <option value="$PROJECT_DIR$/practise/src/character/APHero.java" />
+        <option value="$PROJECT_DIR$/practise/src/character/ADAPHero.java" />
         <option value="$PROJECT_DIR$/practise/src/character/Hero.java" />
       </list>
     </option>
@@ -210,7 +212,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -240,12 +241,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547642532804" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547723080115" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
@@ -282,12 +284,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGIantDragon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="character.TestGIantDragon" />
+    <configuration name="Item" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="property.Item" />
       <module name="practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="character.*" />
+          <option name="PATTERN" value="property.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,18 +325,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Hero (1)" />
-      <item itemvalue="Application.TestGIantDragon" />
       <item itemvalue="Application.testHero" />
       <item itemvalue="Application.testItem" />
       <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.Item" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Hero (1)" />
+        <item itemvalue="Application.Item" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.testItem" />
         <item itemvalue="Application.testHero" />
-        <item itemvalue="Application.TestGIantDragon" />
       </list>
     </recent_temporary>
   </component>
@@ -364,7 +366,9 @@
       <workItem from="1547392355654" duration="1298000" />
       <workItem from="1547449602353" duration="2088000" />
       <workItem from="1547617810529" duration="3684000" />
-      <workItem from="1547634752197" duration="5039000" />
+      <workItem from="1547634752197" duration="5345000" />
+      <workItem from="1547717008225" duration="602000" />
+      <workItem from="1547720372225" duration="2295000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -464,11 +468,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547636882383</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Jan16th2018-006">
+      <created>1547642695392</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1547642695392</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70807000" />
+    <option name="totallyTimeSpent" value="74010000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -481,8 +492,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1030" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30021366" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30769232" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -492,8 +504,8 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3280899" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3247191" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988764" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3247191" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3988764" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32921347" />
@@ -514,6 +526,39 @@
       <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="Maven" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30769232" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3280899" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3247191" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988764" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32921347" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32921347" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32921347" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3280899" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -532,29 +577,10 @@
     <MESSAGE value="Jan16th2018-003" />
     <MESSAGE value="Jan16th2018-004" />
     <MESSAGE value="Jan16th2018-005" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jan16th2018-005" />
+    <MESSAGE value="Jan16th2018-006" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jan16th2018-006" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practise/src/Oct22nd2018.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/Oct30th2018.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1577">
-          <caret line="83" column="14" selection-start-line="83" selection-start-column="14" selection-end-line="83" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/Person.java" />
-    <entry file="file://$PROJECT_DIR$/practise/src/lambda.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/Test.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/Student.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/Gender.java" />
@@ -685,13 +711,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/property/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/character/GiantDragon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -713,91 +732,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/physicalAttack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/physicalAttack.java" />
+    <entry file="file://$PROJECT_DIR$/practise/src/AD.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/AD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/character/ADHero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/character/AD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/character/AP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/character/APHero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/character/ADAPHero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/character/Healer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/character/SPHero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -811,10 +751,131 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/character/AP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/character/SPHero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/character/Healer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/character/AD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/property/lifePotion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/property/magicPotion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding>
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/property/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/character/Mortal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/character/mortal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/character/ADHero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/character/APHero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/character/ADAPHero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/character/Hero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="315">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
