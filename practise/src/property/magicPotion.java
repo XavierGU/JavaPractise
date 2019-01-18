@@ -1,3 +1,4 @@
+/*
 package property;
 
 public class magicPotion extends Item {
@@ -5,3 +6,4 @@ public class magicPotion extends Item {
         System.out.println("回蓝");
     }
 }
+*/

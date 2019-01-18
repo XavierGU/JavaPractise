@@ -5,7 +5,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practise/src/character/ADHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/character/ADHero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practise/src/character/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/character/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/SPHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/character/SPHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/src/property/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/property/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/src/property/lifePotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/property/lifePotion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/src/property/magicPotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/property/magicPotion.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,40 +18,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practise/src/character/Hero.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-              <folding>
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#344#345#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practise/src/character/ADHero.java">
+        <entry file="file://$PROJECT_DIR$/practise/src/property/Item.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="504">
+              <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#99#100#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#97#98#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practise/src/character/SPHero.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="2" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -115,15 +94,15 @@
         <option value="$PROJECT_DIR$/practise/src/character/AP.java" />
         <option value="$PROJECT_DIR$/practise/src/character/Healer.java" />
         <option value="$PROJECT_DIR$/practise/src/character/testHero.java" />
-        <option value="$PROJECT_DIR$/practise/src/property/lifePotion.java" />
-        <option value="$PROJECT_DIR$/practise/src/property/magicPotion.java" />
-        <option value="$PROJECT_DIR$/practise/src/property/Item.java" />
         <option value="$PROJECT_DIR$/practise/src/character/mortal.java" />
+        <option value="$PROJECT_DIR$/practise/src/character/SPHero.java" />
         <option value="$PROJECT_DIR$/practise/src/character/APHero.java" />
         <option value="$PROJECT_DIR$/practise/src/character/ADAPHero.java" />
         <option value="$PROJECT_DIR$/practise/src/character/ADHero.java" />
         <option value="$PROJECT_DIR$/practise/src/character/Hero.java" />
-        <option value="$PROJECT_DIR$/practise/src/character/SPHero.java" />
+        <option value="$PROJECT_DIR$/practise/src/property/lifePotion.java" />
+        <option value="$PROJECT_DIR$/practise/src/property/magicPotion.java" />
+        <option value="$PROJECT_DIR$/practise/src/property/Item.java" />
       </list>
     </option>
   </component>
@@ -167,14 +146,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547730831807" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547801127351" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
@@ -190,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ADHero">
+  <component name="RunManager" selected="Application.Item">
     <configuration name="ADHero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="character.ADHero" />
       <module name="practise" />
@@ -259,9 +238,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ADHero" />
-        <item itemvalue="Application.Hero (1)" />
         <item itemvalue="Application.Item" />
+        <item itemvalue="Application.Hero (1)" />
+        <item itemvalue="Application.ADHero" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.testItem" />
       </list>
@@ -296,7 +275,8 @@
       <workItem from="1547634752197" duration="5345000" />
       <workItem from="1547717008225" duration="602000" />
       <workItem from="1547720372225" duration="2413000" />
-      <workItem from="1547728114876" duration="2041000" />
+      <workItem from="1547728114876" duration="2246000" />
+      <workItem from="1547797928425" duration="2921000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -410,11 +390,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547723089536</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Jan17th2018-002">
+      <created>1547730838500</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1547730838500</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76169000" />
+    <option name="totallyTimeSpent" value="79295000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -427,9 +414,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1030" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31143162" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31517094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -439,7 +425,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3280899" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3247191" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3247191" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988764" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -447,7 +433,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32921347" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32921347" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3280899" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3280899" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -514,7 +500,8 @@
     <MESSAGE value="Jan16th2018-005" />
     <MESSAGE value="Jan16th2018-006" />
     <MESSAGE value="Jan17th2018-001" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jan17th2018-001" />
+    <MESSAGE value="Jan17th2018-002" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jan17th2018-002" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/practise/src/Test.java" />
@@ -641,13 +628,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/property/Weapon.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/property/testItem.java" />
-    <entry file="file://$PROJECT_DIR$/practise/src/character/GiantDragon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/character/TestGIantDragon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -703,68 +683,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/character/Mortal.java" />
-    <entry file="file://$PROJECT_DIR$/practise/src/property/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding>
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/character/mortal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/property/magicPotion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding>
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#123#124#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/character/ADAPHero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/property/lifePotion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding>
-            <element signature="e#82#83#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/character/APHero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/character/Hero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -775,16 +697,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/character/GiantDragon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/character/ADAPHero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/character/APHero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/character/ADHero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/character/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/property/lifePotion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/property/magicPotion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/property/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
           </folding>
         </state>
       </provider>

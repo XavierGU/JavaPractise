@@ -1,3 +1,4 @@
+/*
 package character;
 
 import property.Item;
@@ -30,3 +31,4 @@ public class ADHero extends Hero implements AD{
         lifePotion lp = new lifePotion();
     }
 }
+*/
