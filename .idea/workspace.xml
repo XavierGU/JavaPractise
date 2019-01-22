@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/ADHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/character/ADHero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/character/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/property/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/property/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/property/lifePotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/property/lifePotion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/property/magicPotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/property/magicPotion.java" afterDir="false" />
-    </list>
+    <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,16 +12,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practise/src/property/Item.java">
+        <entry file="file://$PROJECT_DIR$/practise/src/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
-              <folding>
-                <element signature="e#99#100#0" expanded="true" />
-                <element signature="e#125#126#0" expanded="true" />
-                <element signature="e#97#98#0" expanded="true" />
-                <element signature="e#133#134#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="589">
+              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -107,10 +94,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="255" />
-    <option name="y" value="15" />
-    <option name="width" value="1405" />
-    <option name="height" value="1005" />
+    <option name="x" value="2062" />
+    <option name="y" value="269" />
+    <option name="width" value="1124" />
+    <option name="height" value="804" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -130,30 +117,18 @@
               <item name="practise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="javapractise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="character" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javapractise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="property" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547801127351" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548174499883" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
@@ -401,7 +376,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79295000" />
+    <option name="totallyTimeSpent" value="79308000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -413,9 +388,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1030" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31517094" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2707775" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -549,7 +524,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/HeroType.java" />
+    <entry file="file://$PROJECT_DIR$/practise/src/heroType.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/AP.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/Heal.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/manaPotion.java" />
@@ -646,8 +621,8 @@
     <entry file="file://$PROJECT_DIR$/practise/src/AD.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="589">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -682,7 +657,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/character/Mortal.java" />
+    <entry file="file://$PROJECT_DIR$/practise/src/character/mortal.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/character/mortal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
