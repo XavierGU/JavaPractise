@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="" />
+    <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/src/digit/TestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/digit/TestNumber.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practise/src/HelloWorld.java">
+        <entry file="file://$PROJECT_DIR$/practise/src/digit/TestNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            <state relative-caret-position="361">
+              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -27,8 +30,8 @@
       <list>
         <option value="package-info" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -39,7 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practise/src/Student.java" />
         <option value="$PROJECT_DIR$/practise/src/Person.java" />
         <option value="$PROJECT_DIR$/practise/src/COMP1100Student.java" />
         <option value="$PROJECT_DIR$/practise/src/Oct30th2018.java" />
@@ -90,14 +92,15 @@
         <option value="$PROJECT_DIR$/practise/src/property/lifePotion.java" />
         <option value="$PROJECT_DIR$/practise/src/property/magicPotion.java" />
         <option value="$PROJECT_DIR$/practise/src/property/Item.java" />
+        <option value="$PROJECT_DIR$/practise/src/digit/TestNumber.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2062" />
-    <option name="y" value="269" />
-    <option name="width" value="1124" />
-    <option name="height" value="804" />
+    <option name="x" value="1821" />
+    <option name="y" value="100" />
+    <option name="width" value="1241" />
+    <option name="height" value="703" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -117,6 +120,18 @@
               <item name="practise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javapractise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="character" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javapractise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="property" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -128,7 +143,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548174499883" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548257640297" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
@@ -144,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Item">
+  <component name="RunManager" selected="Application.TestNumber">
     <configuration name="ADHero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="character.ADHero" />
       <module name="practise" />
@@ -191,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testItem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="property.testItem" />
+    <configuration name="TestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="digit.TestNumber" />
       <module name="practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="property.*" />
+          <option name="PATTERN" value="digit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,18 +221,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Hero (1)" />
-      <item itemvalue="Application.testItem" />
       <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.Item" />
       <item itemvalue="Application.ADHero" />
+      <item itemvalue="Application.TestNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestNumber" />
         <item itemvalue="Application.Item" />
         <item itemvalue="Application.Hero (1)" />
         <item itemvalue="Application.ADHero" />
         <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.testItem" />
       </list>
     </recent_temporary>
   </component>
@@ -252,6 +267,9 @@
       <workItem from="1547720372225" duration="2413000" />
       <workItem from="1547728114876" duration="2246000" />
       <workItem from="1547797928425" duration="2921000" />
+      <workItem from="1548174427842" duration="239000" />
+      <workItem from="1548240157304" duration="900000" />
+      <workItem from="1548249697740" duration="1887000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -372,11 +390,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547730838500</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Jan23rd2019-001">
+      <created>1548174633936</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1548174633936</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79308000" />
+    <option name="totallyTimeSpent" value="82334000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -388,9 +413,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2707775" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22334754" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -400,7 +426,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3280899" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3247191" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.324295" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988764" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -408,7 +434,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32921347" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32921347" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3280899" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3275488" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -476,7 +502,8 @@
     <MESSAGE value="Jan16th2018-006" />
     <MESSAGE value="Jan17th2018-001" />
     <MESSAGE value="Jan17th2018-002" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jan17th2018-002" />
+    <MESSAGE value="Jan23rd2019-001" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jan23rd2019-001" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/practise/src/Test.java" />
@@ -524,7 +551,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/heroType.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/AP.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/Heal.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/manaPotion.java" />
@@ -619,13 +645,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/physicalAttack.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/AD.java" />
-    <entry file="file://$PROJECT_DIR$/practise/src/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/character/testHero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -657,7 +676,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/character/mortal.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/character/mortal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -731,6 +749,20 @@
             <element signature="e#97#98#0" expanded="true" />
             <element signature="e#133#134#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/digit/TestNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
         </state>
       </provider>
     </entry>
