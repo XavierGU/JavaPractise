@@ -17,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practise/src/digit/TestNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+            <state relative-caret-position="48">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -97,10 +97,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1821" />
-    <option name="y" value="100" />
-    <option name="width" value="1241" />
-    <option name="height" value="703" />
+    <option name="x" value="2035" />
+    <option name="y" value="113" />
+    <option name="width" value="993" />
+    <option name="height" value="562" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -108,6 +108,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,16 +138,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548257640297" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548334399049" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -269,7 +269,8 @@
       <workItem from="1547797928425" duration="2921000" />
       <workItem from="1548174427842" duration="239000" />
       <workItem from="1548240157304" duration="900000" />
-      <workItem from="1548249697740" duration="1887000" />
+      <workItem from="1548249697740" duration="2820000" />
+      <workItem from="1548324746882" duration="2442000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -397,11 +398,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548174633936</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Jan23rd2019-002">
+      <created>1548257670564</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1548257670564</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82334000" />
+    <option name="totallyTimeSpent" value="85709000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -414,9 +422,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22334754" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22547974" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -503,7 +510,8 @@
     <MESSAGE value="Jan17th2018-001" />
     <MESSAGE value="Jan17th2018-002" />
     <MESSAGE value="Jan23rd2019-001" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jan23rd2019-001" />
+    <MESSAGE value="Jan23rd2019-002" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jan23rd2019-002" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/practise/src/Test.java" />
@@ -761,8 +769,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/digit/TestNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        <state relative-caret-position="48">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
