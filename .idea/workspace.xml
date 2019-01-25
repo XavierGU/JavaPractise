@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practise/src/digit/huangHe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practise/src/digit/TestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/digit/TestNumber.java" afterDir="false" />
     </list>
@@ -16,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practise/src/digit/huangHe.java">
+        <entry file="file://$PROJECT_DIR$/practise/src/digit/TestNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="477">
+              <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -92,8 +91,8 @@
         <option value="$PROJECT_DIR$/practise/src/property/lifePotion.java" />
         <option value="$PROJECT_DIR$/practise/src/property/magicPotion.java" />
         <option value="$PROJECT_DIR$/practise/src/property/Item.java" />
-        <option value="$PROJECT_DIR$/practise/src/digit/TestNumber.java" />
         <option value="$PROJECT_DIR$/practise/src/digit/huangHe.java" />
+        <option value="$PROJECT_DIR$/practise/src/digit/TestNumber.java" />
       </list>
     </option>
   </component>
@@ -150,7 +149,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548417571953" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548419537100" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -166,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.huangHe">
+  <component name="RunManager" selected="Application.TestNumber">
     <configuration name="ADHero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="character.ADHero" />
       <module name="practise" />
@@ -241,8 +240,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.huangHe" />
         <item itemvalue="Application.TestNumber" />
+        <item itemvalue="Application.huangHe" />
         <item itemvalue="Application.Item" />
         <item itemvalue="Application.Hero (1)" />
         <item itemvalue="Application.ADHero" />
@@ -284,7 +283,7 @@
       <workItem from="1548240157304" duration="900000" />
       <workItem from="1548249697740" duration="2820000" />
       <workItem from="1548324746882" duration="6787000" />
-      <workItem from="1548413107917" duration="2561000" />
+      <workItem from="1548413107917" duration="4273000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -426,11 +425,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548334421936</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Jan25th2019-001">
+      <created>1548417589257</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1548417589257</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92615000" />
+    <option name="totallyTimeSpent" value="94327000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -534,7 +540,8 @@
     <MESSAGE value="Jan23rd2019-001" />
     <MESSAGE value="Jan23rd2019-002" />
     <MESSAGE value="Jan24th2019-001" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jan24th2019-001" />
+    <MESSAGE value="Jan25th2019-001" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jan25th2019-001" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/practise/src/Test.java" />
@@ -790,17 +797,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/digit/TestNumber.java">
+    <entry file="file://$PROJECT_DIR$/practise/src/digit/huangHe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="40" column="61" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
+        <state relative-caret-position="384">
+          <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/digit/huangHe.java">
+    <entry file="file://$PROJECT_DIR$/practise/src/digit/TestNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        <state relative-caret-position="477">
+          <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
         </state>
       </provider>
     </entry>

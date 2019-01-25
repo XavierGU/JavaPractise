@@ -1,5 +1,7 @@
 package digit;
 
+import java.util.Locale;
+
 public class TestNumber {
        /* float f1 = 5.4f;
         float f2 = 5.5f;
@@ -33,13 +35,23 @@ public class TestNumber {
         }
         System.out.println(count);
     }*/
-       public static void main(String[] args) {
+  /*     public static void main(String[] args) {
            String name = "garen";
            int kill = 8;
            String title = "legendary";
            String sentenceFormat = "%s has constantly killed %d times, earns %s %n ";
            System.out.printf(sentenceFormat,title,kill,name);
        }
-
+*/
+       public static void main(String[] args) {
+           int year = 1000;
+           System.out.printf("%d%n",year);
+           System.out.printf("%7d%n",year);
+           System.out.printf("%-8d%n",year);
+           System.out.printf("%08d%n",year);
+           System.out.printf("%,d%n",year);
+           System.out.printf(Locale.FRANCE,"%,2f%n",Math.PI*10000);
+           System.out.printf(Locale.US,"%,2f%n",Math.PI*10000);
+       }
 
 }
