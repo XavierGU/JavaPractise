@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practise/src/character/TestString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/src/character/TestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/character/TestString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practise/src/character/TestString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="352">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -97,10 +97,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2626" />
-    <option name="y" value="111" />
-    <option name="width" value="635" />
-    <option name="height" value="360" />
+    <option name="x" value="3113" />
+    <option name="y" value="74" />
+    <option name="width" value="406" />
+    <option name="height" value="230" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -149,7 +149,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548424216918" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548435133441" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -283,7 +283,7 @@
       <workItem from="1548240157304" duration="900000" />
       <workItem from="1548249697740" duration="2820000" />
       <workItem from="1548324746882" duration="6787000" />
-      <workItem from="1548413107917" duration="8721000" />
+      <workItem from="1548413107917" duration="14270000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -446,11 +446,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548421245000</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Jan25th2019-004">
+      <created>1548424276027</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1548424276027</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98775000" />
+    <option name="totallyTimeSpent" value="104324000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -557,7 +564,8 @@
     <MESSAGE value="Jan25th2019-001" />
     <MESSAGE value="Jan25th2019-002" />
     <MESSAGE value="Jan25th2019-003" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jan25th2019-003" />
+    <MESSAGE value="Jan25th2019-004" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jan25th2019-004" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/practise/src/Gender.java" />
@@ -834,8 +842,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/character/TestString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        <state relative-caret-position="352">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
         </state>
       </provider>
     </entry>
