@@ -1,51 +1,53 @@
 package character;
 
-import java.util.Arrays;
-
 public class TestString {
-
     public static void main(String[] args) {
-        String[]str= new String[8];
-        for (int i = 0;i<str.length;i++){
-            String randomString = randomString(5);
-            str[i]= randomString;
-        }
-        System.out.println("排序前");
-        System.out.println(Arrays.toString(str));
-        for (int i = 0; i<str.length;i++){
-            for (int j = 0;j<str.length-i-1;j++){
-                char firstCase1 = str[j].charAt(0);
-                char firstCase2 = str[j+1].charAt(0);
-                firstCase1 = Character.toLowerCase(firstCase1);
-                firstCase2 = Character.toLowerCase(firstCase2);
-                if (firstCase1>firstCase2){
-                    String temp = str[j];
-                    str[j]= str[j+1];
-                    str[j+1] = temp;
-                }
-            }
-        }
-        System.out.println("排序后");
-        System.out.println(Arrays.toString(str));
+        String password = randomString(3);
+        System.out.println("the password: "+password);
+        char[]guessWord = new char[password.length()];
+        generatePassword(guessWord,password);
+
     }
-    private static String randomString (int length){
+    private static String randomString(int length) {
         String pool = "";
-        for (short i = '0';i<='9';i++){
-            pool+=(char)i;
+        for (short i = '0'; i <= '9'; i++) {
+            pool += (char) i;
         }
-        for (short i = 'a'; i<='z';i++){
-            pool += (char)i;
+        for (short i = 'a'; i <= 'z'; i++) {
+            pool += (char) i;
         }
-        for (short i = 'A';i<='Z';i++){
-            pool += (char)i;
+        for (short i = 'A'; i <= 'Z'; i++) {
+            pool += (char) i;
         }
-        char[]ca = new char[length];
-        for (int i= 0; i < ca.length;i++){
-            int index = (int)(Math.random()*pool.length());
-            ca[i]=pool.charAt(index);
+        char[] cc = new char[length];
+        for (int i = 0; i < cc.length; i++) {
+            int index = (int) (Math.random() * pool.length());
+            cc[i]=pool.charAt(index);
         }
-        String result = new String(ca);
+        String result = new String(cc);
         return result;
     }
+    public static void generatePassword(char[]guessWord, String password){
+        generatePassword(guessWord,0,password);
+    }
+    public static void generatePassword(char[]guessWord, int index, String password){
+        for (short i ='0';i<='Z';i++){
+            char c = (char)i;
+            if (!Character.isLetterOrDigit(c))
+            continue;
+            guessWord[index] = c;
+            if (index!=guessWord.length-1){
+                generatePassword(guessWord,index+1,password);
+            }else{
+                String guess = new String(guessWord);
+                if (guess.equals(password)){
+                    System.out.println("guess: "+  guess);
+                    return;
+                }
+            }
 
+        }
+
+    }
 }
+
