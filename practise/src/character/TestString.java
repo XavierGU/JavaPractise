@@ -1,8 +1,8 @@
 package character;
 
 public class TestString {
-    public static void main(String[] args) {
-        // String sentence = "盖伦,在进行了连续8次击杀后,获得了超神 的称号";
+    // public static void main(String[] args) {
+    // String sentence = "盖伦,在进行了连续8次击杀后,获得了超神 的称号";
         /*char c = sentence.charAt(0);
         System.out.println(c);
         String subString1 = sentence.substring(3);
@@ -13,7 +13,7 @@ public class TestString {
         for (String sub : subSentences){
             System.out.println(sub);
     }*/
-        //System.out.println(sentence.trim());
+    //System.out.println(sentence.trim());
        /* System.out.println(sentence.toLowerCase());
         System.out.println(sentence.toUpperCase());
 */
@@ -54,7 +54,7 @@ public class TestString {
       String result = new String(cs);
         System.out.println(result);
         }*/
-    String sentence = " has given us that two ears, two eyes, and but one tongue, to the end that we should hear and see more than we speak";
+  /*  String sentence = " has given us that two ears, two eyes, and but one tongue, to the end that we should hear and see more than we speak";
     int lastTwo = sentence.lastIndexOf("two");
         System.out.println(lastTwo);
     char[]cs = sentence.toCharArray();
@@ -63,8 +63,71 @@ public class TestString {
     }
     String result = new String(cs);
         System.out.println(result);
+    }*/
+/*   public static void main(String[] args) {
+       String str1 = "the light";
+       String str2 = new String(str1);
+       String str3 = str1.toUpperCase();
+       System.out.println(str1 == str2);
+       System.out.println(str1.equals(str2));
+       System.out.println(str1.equals(str3));
+       System.out.println(str1.equalsIgnoreCase(str3));
+   }*/
+  /* public static void main(String[] args) {
+       String str1 = "the light";
+       String start = "the";
+       String end = "light";
+       System.out.println(str1.startsWith(start));
+       System.out.println(str1.endsWith(end));
+   }*/
+    private static String randomString(int length) {
+        String pool = "";
+        for (short i = '0'; i <= '9'; i++) {
+            pool += (char) i;
+        }
+        for (short i = 'a'; i <= 'z'; i++) {
+            pool += (char) i;
+        }
+        for (short i = 'A'; i <= 'Z'; i++) {
+            pool += (char) i;
+        }
+        char[] cc = new char[2];
+        for (int i = 0; i < cc.length; i++) {
+            int index = (int) (Math.random() * pool.length());
+            cc[i] = pool.charAt(index);
+        }
+        String result = new String(cc);
+        return result;
     }
+    private static void putIntoDuplicatedArray(String s){
+        for (int i = 0;i<pos;i++)
     }
+
+    public static void main(String[] args) {
+        String[]ss = new String[100];
+        for (int i = 0;i<ss.length;i++){
+            ss[i]=randomString(2);
+        }
+        for (int i = 0;i<ss.length;i++){
+            System.out.println(ss[i]+" ");
+            if (19==i%20)
+                System.out.println();
+        }
+        for (String s1 : ss){
+            int repeat = 0;
+            for (String s2 : ss){
+                if (s1.equalsIgnoreCase(s2)){
+                    repeat++;
+                    if (2==repeat){
+
+                    }
+                }
+            }
+        }
+
+        }
+    }
+
 
 
 
