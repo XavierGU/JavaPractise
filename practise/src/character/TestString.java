@@ -80,7 +80,7 @@ public class TestString {
        System.out.println(str1.startsWith(start));
        System.out.println(str1.endsWith(end));
    }*/
-    private static String randomString(int length){
+/*    private static String randomString(int length){
         String pool = "";
         for (short i = '0';i<='9';i++){
             pool+=(char)i;
@@ -142,6 +142,18 @@ public class TestString {
                 return;
         }
         foundDuplicatedString[pos++]=s;
+    }*/
+    public static void main(String[] args) {
+        String str1 = "let there ";
+        StringBuffer sb = new StringBuffer(str1);
+        sb.append("be light");
+        System.out.println(sb);
+        sb.delete(4,10);
+        System.out.println(sb);
+        sb.insert(4,"there");
+        System.out.println(sb);
+        sb.reverse();
+        System.out.println(sb);
     }
     }
 
