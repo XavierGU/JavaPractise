@@ -80,53 +80,73 @@ public class TestString {
        System.out.println(str1.startsWith(start));
        System.out.println(str1.endsWith(end));
    }*/
-    private static String randomString(int length) {
+    private static String randomString(int length){
         String pool = "";
-        for (short i = '0'; i <= '9'; i++) {
-            pool += (char) i;
+        for (short i = '0';i<='9';i++){
+            pool+=(char)i;
         }
-        for (short i = 'a'; i <= 'z'; i++) {
-            pool += (char) i;
+        for (short i = 'a';i<='z';i++){
+            pool+=(char)i;
         }
-        for (short i = 'A'; i <= 'Z'; i++) {
-            pool += (char) i;
+        for (short i = 'A';i<='Z';i++){
+            pool+=(char)i;
         }
-        char[] cc = new char[2];
-        for (int i = 0; i < cc.length; i++) {
-            int index = (int) (Math.random() * pool.length());
-            cc[i] = pool.charAt(index);
+        char[]cc = new char[2];
+        for (int i = 0;i<cc.length;i++){
+            int index = (int)(Math.random()*pool.length());
+            cc[i]=pool.charAt(index);
         }
         String result = new String(cc);
         return result;
     }
-    private static void putIntoDuplicatedArray(String s){
-        for (int i = 0;i<pos;i++)
-    }
 
     public static void main(String[] args) {
-        String[]ss = new String[100];
-        for (int i = 0;i<ss.length;i++){
-            ss[i]=randomString(2);
+        String[]random = new String[100];
+        for (int i = 0 ;i<random.length;i++){
+            random[i]=randomString(2);
         }
-        for (int i = 0;i<ss.length;i++){
-            System.out.println(ss[i]+" ");
-            if (19==i%20)
+        for (int i = 0;i<random.length;i++){
+            System.out.print(random[i]+" ");
+            if (19==i%20){
                 System.out.println();
-        }
-        for (String s1 : ss){
-            int repeat = 0;
-            for (String s2 : ss){
-                if (s1.equalsIgnoreCase(s2)){
-                    repeat++;
-                    if (2==repeat){
-
+            }
+            for (String s1:random){
+                int repeat=0;
+                for (String s2:random){
+                    if (s1.equalsIgnoreCase(s2)){
+                        repeat++;
+                    if (2==repeat) {
+                        putIntoDuplicated(s1);
+                        break;
+                    }
                     }
                 }
+
+            }
+        }
+        System.out.printf("有%d个相同的%n",pos);
+        if (pos != 0) {
+            System.out.println("分别是: ");
+            for (int i = 0;i<pos;i++){
+                System.out.print(foundDuplicatedString[i]+" ");
+
             }
         }
 
-        }
     }
+    static int pos;
+    static String foundDuplicatedString[]=new String[100];
+    private static void putIntoDuplicated(String s){
+        for (int i = 0;i<pos;i++){
+            if (foundDuplicatedString[i].equalsIgnoreCase(s))
+                return;
+        }
+        foundDuplicatedString[pos++]=s;
+    }
+    }
+
+
+
 
 
 
