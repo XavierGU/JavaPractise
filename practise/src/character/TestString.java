@@ -143,7 +143,7 @@ public class TestString {
         }
         foundDuplicatedString[pos++]=s;
     }*/
-    public static void main(String[] args) {
+  /*  public static void main(String[] args) {
         String str1 = "let there ";
         StringBuffer sb = new StringBuffer(str1);
         sb.append("be light");
@@ -154,7 +154,14 @@ public class TestString {
         System.out.println(sb);
         sb.reverse();
         System.out.println(sb);
+    }*/
+    public static void main(String[] args) {
+        String str1 = "the";
+        StringBuffer sb = new StringBuffer(str1);
+        System.out.println(sb.length());
+        System.out.println(sb.capacity());
     }
+
     }
 
 

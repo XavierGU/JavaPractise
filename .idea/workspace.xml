@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/practise/src/character/NewTestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/date/TestDate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practise/src/character/TestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/character/TestString.java" afterDir="false" />
     </list>
@@ -15,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practise/src/character/TestString.java">
+        <entry file="file://$PROJECT_DIR$/practise/src/date/TestDate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="153" column="29" selection-start-line="153" selection-start-column="29" selection-end-line="153" selection-end-column="29" />
+            <state relative-caret-position="656">
+              <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -42,8 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practise/src/Test.java" />
-        <option value="$PROJECT_DIR$/practise/src/lambda.java" />
         <option value="$PROJECT_DIR$/practise/src/Oct31st2018.java" />
         <option value="$PROJECT_DIR$/practise/src/Nov1st2018.java" />
         <option value="$PROJECT_DIR$/practise/src/Nov2nd2018.java" />
@@ -93,14 +93,16 @@
         <option value="$PROJECT_DIR$/practise/src/digit/TestNumber.java" />
         <option value="$PROJECT_DIR$/practise/src/character/TestChar.java" />
         <option value="$PROJECT_DIR$/practise/src/character/TestString.java" />
+        <option value="$PROJECT_DIR$/practise/src/character/NewTestString.java" />
+        <option value="$PROJECT_DIR$/practise/src/date/TestDate.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2801" />
-    <option name="y" value="247" />
-    <option name="width" value="793" />
-    <option name="height" value="425" />
+    <option name="x" value="2958" />
+    <option name="y" value="201" />
+    <option name="width" value="634" />
+    <option name="height" value="340" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -108,6 +110,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,36 +124,16 @@
               <item name="practise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="javapractise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="character" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javapractise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="digit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javapractise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="property" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549166060481" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549629096650" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -165,13 +149,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestString">
-    <configuration name="Item" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="property.Item" />
+  <component name="RunManager" selected="Application.TestDate">
+    <configuration name="NewTestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="character.NewTestString" />
       <module name="practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="property.*" />
+          <option name="PATTERN" value="character.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,6 +169,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="character.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="date.TestDate" />
+      <module name="practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,33 +215,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="huangHe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="digit.huangHe" />
-      <module name="practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="digit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Item" />
       <item itemvalue="Application.TestNumber" />
-      <item itemvalue="Application.huangHe" />
       <item itemvalue="Application.TestChar" />
       <item itemvalue="Application.TestString" />
+      <item itemvalue="Application.NewTestString" />
+      <item itemvalue="Application.TestDate" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestDate" />
+        <item itemvalue="Application.NewTestString" />
         <item itemvalue="Application.TestString" />
         <item itemvalue="Application.TestChar" />
         <item itemvalue="Application.TestNumber" />
-        <item itemvalue="Application.huangHe" />
-        <item itemvalue="Application.Item" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +276,8 @@
       <workItem from="1549164019155" duration="2436000" />
       <workItem from="1549205670706" duration="2107000" />
       <workItem from="1549249905209" duration="9031000" />
-      <workItem from="1549298765851" duration="1325000" />
+      <workItem from="1549298765851" duration="2098000" />
+      <workItem from="1549617722818" duration="8059000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -504,11 +489,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549298561729</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Feb5th2019-001">
+      <created>1549300205409</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1549300205410</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145017000" />
+    <option name="totallyTimeSpent" value="153849000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -521,9 +513,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -533,14 +524,14 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3280899" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19739696" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19739696" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32921347" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32921347" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3286334" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32921347" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286334" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3275488" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -593,7 +584,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Jan13th2018" />
     <MESSAGE value="Jan14th2018" />
     <MESSAGE value="Jan14th2018-001" />
     <MESSAGE value="Jan14th2018-002" />
@@ -618,17 +608,10 @@
     <MESSAGE value="Feb3rd2019" />
     <MESSAGE value="Feb3rd2019-002" />
     <MESSAGE value="Feb4th2019-001" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feb4th2019-001" />
+    <MESSAGE value="Feb5th2019-001" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feb5th2019-001" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practise/src/Gender.java" />
-    <entry file="file://$PROJECT_DIR$/practise/src/Oct31st2018.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/Nov1st2018.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
@@ -895,8 +878,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/character/TestString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="153" column="29" selection-start-line="153" selection-start-column="29" selection-end-line="153" selection-end-column="29" />
+        <state relative-caret-position="504">
+          <caret line="161" column="40" selection-start-line="161" selection-start-column="40" selection-end-line="161" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/character/NewTestString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/date/TestDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
         </state>
       </provider>
     </entry>
