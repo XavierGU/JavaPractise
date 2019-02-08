@@ -1,7 +1,10 @@
 package collection;
 import character.Hero;
+import character.LOL;
+import property.Item;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class TestCollection {
   /*  public static void main(String[] args) {
@@ -16,12 +19,12 @@ public class TestCollection {
       heros.add(new Hero("teemo"));
       System.out.println(heros.size());
   }*/
-  public static void main(String[] args) {
+/*  public static void main(String[] args) {
       ArrayList heros = new ArrayList();
       for (int i = 0; i < 5; i++) {
           heros.add(new Hero("hero " + i));
       }
- /*     Hero specialHero = new Hero("Special Hero");
+ *//*     Hero specialHero = new Hero("Special Hero");
       heros.add(specialHero);
       heros.remove(2);
       heros.set(4,"hero 5");
@@ -32,10 +35,10 @@ public class TestCollection {
       //System.out.println(heros.get(5));
      // System.out.println(heros.indexOf(specialHero));
       System.out.println(heros.indexOf(new Hero("hero 1")));
-      System.out.println(heros.size());*/
-     /* Hero hs[]=(Hero[])heros.toArray(new Hero[]{});
-      System.out.println(hs);*/
-   /*  ArrayList anotherHeros = new ArrayList();
+      System.out.println(heros.size());*//*
+     *//* Hero hs[]=(Hero[])heros.toArray(new Hero[]{});
+      System.out.println(hs);*//*
+   *//*  ArrayList anotherHeros = new ArrayList();
      anotherHeros.add(new Hero("hero a"));
      anotherHeros.add(new Hero("hero b"));
      anotherHeros.add(new Hero("hero c" ));
@@ -44,7 +47,7 @@ public class TestCollection {
       System.out.println(heros);
       heros.clear();
       System.out.println(heros);
-  }*/
+  }*//*
    String name = "hero 1";
    for (int i = 0;i<heros.size();i++){
        Hero h = (Hero)heros.get(i);
@@ -53,5 +56,18 @@ public class TestCollection {
            break;
        }
    }
+  }*/
+  /*public static void main(String[] args) {
+      List heros = new ArrayList();
+      heros.add(new Hero("garen"));
+      System.out.println(heros.size());
+  }*/
+/*  public static void main(String[] args) {
+      List<Hero> genericheros = new ArrayList<>();
+}*/
+  public static void main(String[] args) {
+      List<LOL> lol = new ArrayList<>();
+      lol.add(new Hero("garen"));
+      lol.add(new Item("mana"));
   }
 }
