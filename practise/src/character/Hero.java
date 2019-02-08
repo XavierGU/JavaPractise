@@ -4,10 +4,11 @@ package character;
 import property.Item;
 
 public class Hero {
-   String name;
-   float hp;
-   float armor;
-   int movespeed;
+   public String name;
+   public float hp;
+   public float armor;
+   public int damage;
+  public int movespeed;
 /* public void useItem(Item i){
      System.out.println("hero use item");
      i.effect();
@@ -21,6 +22,7 @@ public class Hero {
      this.name = name;
 
  }*/
+/*
 public boolean equals(Object o) {
     if (o instanceof Hero) {
         Hero h = (Hero) o;
@@ -39,5 +41,13 @@ public boolean equals(Object o) {
         System.out.println(h1==h2);
         System.out.println(h1==h3);
     }
+*/
+public Hero(){}
+public Hero(String name){
+    this.name=name;
+}
+public String toString(){
+    return name;
+}
 
 }

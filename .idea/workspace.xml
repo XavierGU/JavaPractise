@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practise/src/character/NewTestString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practise/src/date/TestDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/collection/TestCollection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/TestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/character/TestString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/src/character/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/character/Hero.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +16,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practise/src/date/TestDate.java">
+        <entry file="file://$PROJECT_DIR$/practise/src/collection/TestCollection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="656">
-              <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+            <state relative-caret-position="530">
+              <caret line="53" column="8" lean-forward="true" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practise/src/character/Hero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -44,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practise/src/Oct31st2018.java" />
         <option value="$PROJECT_DIR$/practise/src/Nov1st2018.java" />
         <option value="$PROJECT_DIR$/practise/src/Nov2nd2018.java" />
         <option value="$PROJECT_DIR$/practise/src/Nov3rd2018.java" />
@@ -85,7 +95,6 @@
         <option value="$PROJECT_DIR$/practise/src/character/APHero.java" />
         <option value="$PROJECT_DIR$/practise/src/character/ADAPHero.java" />
         <option value="$PROJECT_DIR$/practise/src/character/ADHero.java" />
-        <option value="$PROJECT_DIR$/practise/src/character/Hero.java" />
         <option value="$PROJECT_DIR$/practise/src/property/lifePotion.java" />
         <option value="$PROJECT_DIR$/practise/src/property/magicPotion.java" />
         <option value="$PROJECT_DIR$/practise/src/property/Item.java" />
@@ -95,6 +104,8 @@
         <option value="$PROJECT_DIR$/practise/src/character/TestString.java" />
         <option value="$PROJECT_DIR$/practise/src/character/NewTestString.java" />
         <option value="$PROJECT_DIR$/practise/src/date/TestDate.java" />
+        <option value="$PROJECT_DIR$/practise/src/character/Hero.java" />
+        <option value="$PROJECT_DIR$/practise/src/collection/TestCollection.java" />
       </list>
     </option>
   </component>
@@ -110,8 +121,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,12 +137,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549629096650" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549634776871" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -149,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestDate">
+  <component name="RunManager" selected="Application.TestCollection">
     <configuration name="NewTestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="character.NewTestString" />
       <module name="practise" />
@@ -176,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="date.TestDate" />
+    <configuration name="TestCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.TestCollection" />
       <module name="practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="date.*" />
+          <option name="PATTERN" value="collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="digit.TestNumber" />
+    <configuration name="TestDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="date.TestDate" />
       <module name="practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="digit.*" />
+          <option name="PATTERN" value="date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,19 +227,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestNumber" />
       <item itemvalue="Application.TestChar" />
       <item itemvalue="Application.TestString" />
       <item itemvalue="Application.NewTestString" />
       <item itemvalue="Application.TestDate" />
+      <item itemvalue="Application.TestCollection" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCollection" />
         <item itemvalue="Application.TestDate" />
         <item itemvalue="Application.NewTestString" />
         <item itemvalue="Application.TestString" />
         <item itemvalue="Application.TestChar" />
-        <item itemvalue="Application.TestNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -278,6 +289,7 @@
       <workItem from="1549249905209" duration="9031000" />
       <workItem from="1549298765851" duration="2098000" />
       <workItem from="1549617722818" duration="8059000" />
+      <workItem from="1549630744975" duration="4517000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -496,11 +508,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549300205410</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Feb8th2019-001">
+      <created>1549630763641</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1549630763642</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153849000" />
+    <option name="totallyTimeSpent" value="158366000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -513,8 +532,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -524,7 +544,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3280899" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19739696" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19739696" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -584,7 +604,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Jan14th2018" />
     <MESSAGE value="Jan14th2018-001" />
     <MESSAGE value="Jan14th2018-002" />
     <MESSAGE value="Jan16th2018-001" />
@@ -609,19 +628,10 @@
     <MESSAGE value="Feb3rd2019-002" />
     <MESSAGE value="Feb4th2019-001" />
     <MESSAGE value="Feb5th2019-001" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feb5th2019-001" />
+    <MESSAGE value="Feb8th2019-001" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feb8th2019-001" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practise/src/Nov1st2018.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/Nov2nd2018.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-608">
@@ -814,13 +824,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/character/Hero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/property/lifePotion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -894,6 +897,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="656">
           <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/character/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/collection/TestCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="53" column="8" lean-forward="true" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
