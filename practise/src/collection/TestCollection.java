@@ -4,6 +4,7 @@ import character.LOL;
 import property.Item;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 
 public class TestCollection {
@@ -65,9 +66,54 @@ public class TestCollection {
 /*  public static void main(String[] args) {
       List<Hero> genericheros = new ArrayList<>();
 }*/
-  public static void main(String[] args) {
+ /* public static void main(String[] args) {
       List<LOL> lol = new ArrayList<>();
       lol.add(new Hero("garen"));
       lol.add(new Item("mana"));
+      Hero h1 = (Hero)heros.get
+  }*/
+/*  public static void main(String[] args) {
+      List<Hero>heros = new ArrayList<>();
+      for (int i = 0;i<5;i++){
+          heros.add(new Hero("hero name "+i));}
+         *//* System.out.println("for循环");
+          for (int i =0;i<heros.size();i++){
+              Hero h = heros.get(i);
+              System.out.println(h);
+          }*//*
+     *//* System.out.println("iterator");
+      Iterator<Hero> it = heros.iterator();
+      while (it.hasNext()){
+          Hero h = it.next();
+          System.out.println(h);
+      }*//*
+     *//* System.out.println("iterator的for写法");
+      for (Iterator<Hero>its = heros.iterator();its.hasNext();){
+          Hero hero = (Hero)its.next();
+          System.out.println(hero);
+      }*//*
+      System.out.println("iterator的for each");
+      for (Hero h: heros){
+          System.out.println(h);
+      }
+      }*/
+  public static void main(String[] args) {
+      List<Hero> heros = new ArrayList<>();
+      for (int i = 0; i < 100; i++) {
+          heros.add(new Hero("hero " + i));
+      }
+      List<Hero> deleteHeros = new ArrayList<>();
+      for (Hero h : heros) {
+          int id = Integer.parseInt(h.name.substring(5));
+          if (0 == id % 8) {
+              deleteHeros.add(h);
+          }
+      }
+      for (Hero h : deleteHeros) {
+          heros.remove(h);
+      }
+      System.out.println(heros);
   }
-}
+  }
+
+
