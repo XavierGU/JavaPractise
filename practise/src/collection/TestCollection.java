@@ -5,6 +5,7 @@ import property.Item;
 
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.LinkedList;
 import java.util.List;
 
 public class TestCollection {
@@ -97,7 +98,7 @@ public class TestCollection {
           System.out.println(h);
       }
       }*/
-  public static void main(String[] args) {
+  /*public static void main(String[] args) {
       List<Hero> heros = new ArrayList<>();
       for (int i = 0; i < 100; i++) {
           heros.add(new Hero("hero " + i));
@@ -113,7 +114,11 @@ public class TestCollection {
           heros.remove(h);
       }
       System.out.println(heros);
+  }*/
+  public static void main(String[] args) {
+    LinkedList<Hero>ll = new LinkedList<Hero>();
   }
+
   }
 
 

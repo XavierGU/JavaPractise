@@ -12,52 +12,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="javapractise" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practise/src/property/Item.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practise/src/collection/TestCollection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="113" column="7" selection-start-line="113" selection-start-column="7" selection-end-line="113" selection-end-column="7" />
+            <state relative-caret-position="728">
+              <caret line="118" column="48" selection-start-line="118" selection-start-column="48" selection-end-line="118" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#3857#3858#0" expanded="true" />
+                <element signature="e#3898#3904#0" expanded="true" />
+                <element signature="e#3910#3911#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practise/src/character/TestString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1368">
-              <caret line="161" column="40" selection-start-line="161" selection-start-column="40" selection-end-line="161" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practise/src/character/LOL.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practise/src/character/Hero.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -165,12 +135,6 @@
               <item name="javapractise" type="b2602c69:ProjectViewProjectNode" />
               <item name="practise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="character" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javapractise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="collection" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -194,7 +158,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549723065749" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549758838602" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -340,7 +304,10 @@
       <workItem from="1549298765851" duration="2098000" />
       <workItem from="1549617722818" duration="8059000" />
       <workItem from="1549630744975" duration="6434000" />
-      <workItem from="1549716044701" duration="6179000" />
+      <workItem from="1549716044701" duration="6193000" />
+      <workItem from="1549757901790" duration="681000" />
+      <workItem from="1549780918306" duration="1653000" />
+      <workItem from="1549814170852" duration="922000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -580,11 +547,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549639097284</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Feb9th2019-001">
+      <created>1549723105625</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1549723105625</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166462000" />
+    <option name="totallyTimeSpent" value="169732000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -599,17 +573,17 @@
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.26599148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Learn" order="7" />
+      <window_info id="Learn" order="6" />
+      <window_info active="true" id="Favorites" order="7" sideWeight="0.5021692" side_tool="true" visible="true" weight="0.26599148" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3275488" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19739696" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19739696" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -895,20 +869,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/property/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/character/Hero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/character/APHero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
@@ -930,13 +890,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/character/LOL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -946,17 +899,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/character/TestString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
+        <state relative-caret-position="2576">
           <caret line="161" column="40" selection-start-line="161" selection-start-column="40" selection-end-line="161" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/character/LOL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/character/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/property/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/collection/TestCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="113" column="7" selection-start-line="113" selection-start-column="7" selection-end-line="113" selection-end-column="7" />
+        <state relative-caret-position="728">
+          <caret line="118" column="48" selection-start-line="118" selection-start-column="48" selection-end-line="118" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#3857#3858#0" expanded="true" />
+            <element signature="e#3898#3904#0" expanded="true" />
+            <element signature="e#3910#3911#0" expanded="true" />
           </folding>
         </state>
       </provider>
