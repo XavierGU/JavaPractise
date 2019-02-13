@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/practise/src/collection/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/collection/Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practise/src/collection/TestCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/collection/TestCollection.java" afterDir="false" />
     </list>
@@ -18,15 +20,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practise/src/collection/TestCollection.java">
+        <entry file="file://$PROJECT_DIR$/practise/src/collection/MyStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="728">
-              <caret line="118" column="48" selection-start-line="118" selection-start-column="48" selection-end-line="118" selection-end-column="48" />
+            <state relative-caret-position="512">
+              <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3857#3858#0" expanded="true" />
-                <element signature="e#3898#3904#0" expanded="true" />
-                <element signature="e#3910#3911#0" expanded="true" />
+                <element signature="e#158#164#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -39,8 +45,8 @@
       <list>
         <option value="package-info" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -51,8 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practise/src/Nov1st2018.java" />
-        <option value="$PROJECT_DIR$/practise/src/Nov2nd2018.java" />
         <option value="$PROJECT_DIR$/practise/src/Nov3rd2018.java" />
         <option value="$PROJECT_DIR$/practise/src/Hero2.java" />
         <option value="$PROJECT_DIR$/practise/src/HeroType.java" />
@@ -102,14 +106,16 @@
         <option value="$PROJECT_DIR$/practise/src/character/Hero.java" />
         <option value="$PROJECT_DIR$/practise/src/property/Item.java" />
         <option value="$PROJECT_DIR$/practise/src/collection/TestCollection.java" />
+        <option value="$PROJECT_DIR$/practise/src/collection/Stack.java" />
+        <option value="$PROJECT_DIR$/practise/src/collection/MyStack.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2958" />
-    <option name="y" value="201" />
-    <option name="width" value="634" />
-    <option name="height" value="340" />
+    <option name="x" value="2181" />
+    <option name="y" value="172" />
+    <option name="width" value="1551" />
+    <option name="height" value="879" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -117,8 +123,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,8 +164,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549758838602" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550034737686" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -174,13 +181,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestCollection">
-    <configuration name="NewTestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="character.NewTestString" />
+  <component name="RunManager" selected="Application.MyStack">
+    <configuration name="MyStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.MyStack" />
       <module name="practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="character.*" />
+          <option name="PATTERN" value="collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,8 +195,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="character.TestChar" />
+    <configuration name="NewTestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="character.NewTestString" />
       <module name="practise" />
       <extension name="coverage">
         <pattern>
@@ -241,19 +248,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestChar" />
       <item itemvalue="Application.TestString" />
       <item itemvalue="Application.NewTestString" />
       <item itemvalue="Application.TestDate" />
       <item itemvalue="Application.TestCollection" />
+      <item itemvalue="Application.MyStack" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyStack" />
         <item itemvalue="Application.TestCollection" />
         <item itemvalue="Application.TestDate" />
         <item itemvalue="Application.NewTestString" />
         <item itemvalue="Application.TestString" />
-        <item itemvalue="Application.TestChar" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +314,9 @@
       <workItem from="1549716044701" duration="6193000" />
       <workItem from="1549757901790" duration="681000" />
       <workItem from="1549780918306" duration="1653000" />
-      <workItem from="1549814170852" duration="922000" />
+      <workItem from="1549814170852" duration="1562000" />
+      <workItem from="1549853082137" duration="3171000" />
+      <workItem from="1550027920917" duration="3569000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -554,11 +563,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549723105625</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Feb10th2019-001">
+      <created>1549816670235</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1549816670235</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169732000" />
+    <option name="totallyTimeSpent" value="177112000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -573,17 +589,17 @@
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.26599148" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4957507" visible="true" weight="0.27238807" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Learn" order="6" />
-      <window_info active="true" id="Favorites" order="7" sideWeight="0.5021692" side_tool="true" visible="true" weight="0.26599148" />
+      <window_info id="Favorites" order="7" sideWeight="0.5042493" side_tool="true" weight="0.3378016" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3275488" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19739696" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2570499" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -643,7 +659,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Jan16th2018-002" />
     <MESSAGE value="Jan16th2018-003" />
     <MESSAGE value="Jan16th2018-004" />
     <MESSAGE value="Jan16th2018-005" />
@@ -668,17 +683,10 @@
     <MESSAGE value="Feb8th2019-002" />
     <MESSAGE value="Feb8th2019-003" />
     <MESSAGE value="Feb9th2019-001" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feb9th2019-001" />
+    <MESSAGE value="Feb10th2019-001" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feb10th2019-001" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practise/src/Hero2.java" />
-    <entry file="file://$PROJECT_DIR$/practise/src/Nov9th2018.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/AP.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/Heal.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/manaPotion.java" />
@@ -927,13 +935,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/collection/TestCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="118" column="48" selection-start-line="118" selection-start-column="48" selection-end-line="118" selection-end-column="48" />
+        <state relative-caret-position="219">
+          <caret line="129" column="3" selection-start-line="129" selection-start-column="1" selection-end-line="144" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3857#3858#0" expanded="true" />
-            <element signature="e#3898#3904#0" expanded="true" />
-            <element signature="e#3910#3911#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/collection/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/collection/MyStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#158#164#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
           </folding>
         </state>
       </provider>

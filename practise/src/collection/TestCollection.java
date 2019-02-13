@@ -3,10 +3,7 @@ import character.Hero;
 import character.LOL;
 import property.Item;
 
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
 
 public class TestCollection {
   /*  public static void main(String[] args) {
@@ -115,9 +112,37 @@ public class TestCollection {
       }
       System.out.println(heros);
   }*/
-  public static void main(String[] args) {
+/*  public static void main(String[] args) {
     LinkedList<Hero>ll = new LinkedList<Hero>();
-  }
+    ll.addLast(new Hero("hero1"));
+    ll.addLast(new Hero("hero2"));
+    ll.addLast(new Hero("hero3"));
+    System.out.println(ll);
+    ll.addFirst(new Hero("heroX"));
+    System.out.println(ll);
+    System.out.println(ll.getFirst());
+    System.out.println(ll.getLast());
+    System.out.println(ll);
+    System.out.println(ll.removeFirst());
+    System.out.println(ll.removeLast());
+    System.out.println(ll);
+  }*/
+ /* public static void main(String[] args) {
+    List ll = new LinkedList<Hero>();
+    Queue<Hero> q = new LinkedList<Hero>();
+    System.out.println("初始化队列：\t");
+    q.offer(new Hero("hero 1"));
+    q.offer(new Hero("hero 2"));
+    q.offer(new Hero("hero 3"));
+    q.offer(new Hero("hero 4"));
+    System.out.println(q);
+    Hero h = q.poll();
+    System.out.println(h);
+    System.out.println(q);
+    h=q.peek();
+    System.out.println(h);
+    System.out.println(q);
+  }*/
 
   }
 
