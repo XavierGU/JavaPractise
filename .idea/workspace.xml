@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practise/src/javacore1/LotteryArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/javacore1/CalendarTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,21 +20,15 @@
     <favorites_list name="javapractise" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practise/src/javacore1/CompoundInterest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practise/src/javacore1/LotteryArray.java">
+        <entry file="file://$PROJECT_DIR$/practise/src/javacore1/CalendarTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+            <state relative-caret-position="432">
+              <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,7 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practise/src/AP.java" />
         <option value="$PROJECT_DIR$/practise/src/Heal.java" />
         <option value="$PROJECT_DIR$/practise/src/HealSupport.java" />
         <option value="$PROJECT_DIR$/practise/src/lifePotion.java" />
@@ -109,6 +102,7 @@
         <option value="$PROJECT_DIR$/practise/src/javacore1/LotteryOdds.java" />
         <option value="$PROJECT_DIR$/practise/src/javacore1/CompoundInterest.java" />
         <option value="$PROJECT_DIR$/practise/src/javacore1/LotteryArray.java" />
+        <option value="$PROJECT_DIR$/practise/src/javacore1/CalendarTest.java" />
       </list>
     </option>
   </component>
@@ -124,7 +118,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,13 +159,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550746186656" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550811398533" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -191,7 +185,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LotteryArray">
+  <component name="RunManager" selected="Application.CalendarTest">
+    <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore1.CalendarTest" />
+      <module name="practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacore1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CompoundInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javacore1.CompoundInterest" />
       <module name="practise" />
@@ -238,33 +245,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.MyStack" />
-      <module name="practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.MyStack" />
       <item itemvalue="Application.LotteryOdds" />
       <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.CompoundInterest" />
       <item itemvalue="Application.LotteryArray" />
+      <item itemvalue="Application.CalendarTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalendarTest" />
         <item itemvalue="Application.LotteryArray" />
         <item itemvalue="Application.CompoundInterest" />
         <item itemvalue="Application.LotteryOdds" />
         <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.MyStack" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +322,8 @@
       <workItem from="1550659593062" duration="1376000" />
       <workItem from="1550700568228" duration="1768000" />
       <workItem from="1550706596140" duration="3287000" />
-      <workItem from="1550730409828" duration="1372000" />
+      <workItem from="1550730409828" duration="3154000" />
+      <workItem from="1550810404871" duration="837000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -589,11 +584,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550710036779</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Feb21st2019-001">
+      <created>1550746215771</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1550746215771</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189364000" />
+    <option name="totallyTimeSpent" value="191983000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -606,9 +608,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4957507" visible="true" weight="0.29744136" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4957507" visible="true" weight="0.30063966" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -618,7 +619,7 @@
       <window_info id="Favorites" order="7" sideWeight="0.5042493" side_tool="true" weight="0.3378016" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3275488" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2570499" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2570499" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -706,7 +707,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Feb21st2019-001" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practise/src/lifePotion.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/Mortal.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/ADAPHero.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/HealSupport.java" />
@@ -988,8 +988,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/javacore1/LotteryArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        <state relative-caret-position="144">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/javacore1/CalendarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
