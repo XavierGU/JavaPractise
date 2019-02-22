@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practise/src/javacore1/CalendarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/javacore1/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/javacore1/StaticTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,14 +21,30 @@
     <favorites_list name="javapractise" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practise/src/javacore1/CalendarTest.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practise/src/javacore1/EmployeeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+            <state relative-caret-position="16">
+              <caret line="1" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practise/src/javacore1/StaticTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#831#832#0" expanded="true" />
+                <element signature="e#866#867#0" expanded="true" />
+                <element signature="e#901#902#0" expanded="true" />
+                <element signature="e#937#938#0" expanded="true" />
+                <element signature="e#966#967#0" expanded="true" />
+                <element signature="e#999#1000#0" expanded="true" />
+                <element signature="e#1124#1125#0" expanded="true" />
+                <element signature="e#1161#1162#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,9 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practise/src/Heal.java" />
-        <option value="$PROJECT_DIR$/practise/src/HealSupport.java" />
-        <option value="$PROJECT_DIR$/practise/src/lifePotion.java" />
         <option value="$PROJECT_DIR$/practise/src/manaPotion.java" />
         <option value="$PROJECT_DIR$/practise/src/Mortal.java" />
         <option value="$PROJECT_DIR$/practise/src/Nov10th2018.java" />
@@ -103,6 +117,9 @@
         <option value="$PROJECT_DIR$/practise/src/javacore1/CompoundInterest.java" />
         <option value="$PROJECT_DIR$/practise/src/javacore1/LotteryArray.java" />
         <option value="$PROJECT_DIR$/practise/src/javacore1/CalendarTest.java" />
+        <option value="$PROJECT_DIR$/practise/src/javacore1/Employee.java" />
+        <option value="$PROJECT_DIR$/practise/src/javacore1/EmployeeTest.java" />
+        <option value="$PROJECT_DIR$/practise/src/javacore1/StaticTest.java" />
       </list>
     </option>
   </component>
@@ -118,7 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,18 +176,24 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550811398533" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550872060924" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="javacore1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -185,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CalendarTest">
+  <component name="RunManager" selected="Application.StaticTest">
     <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javacore1.CalendarTest" />
       <module name="practise" />
@@ -212,9 +234,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore1.EmployeeTest" />
       <module name="practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacore1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -232,8 +260,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LotteryOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore1.LotteryOdds" />
+    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore1.StaticTest" />
       <module name="practise" />
       <extension name="coverage">
         <pattern>
@@ -246,19 +274,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LotteryOdds" />
-      <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.CompoundInterest" />
       <item itemvalue="Application.LotteryArray" />
       <item itemvalue="Application.CalendarTest" />
+      <item itemvalue="Application.EmployeeTest" />
+      <item itemvalue="Application.StaticTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticTest" />
+        <item itemvalue="Application.EmployeeTest" />
         <item itemvalue="Application.CalendarTest" />
         <item itemvalue="Application.LotteryArray" />
         <item itemvalue="Application.CompoundInterest" />
-        <item itemvalue="Application.LotteryOdds" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -323,7 +351,8 @@
       <workItem from="1550700568228" duration="1768000" />
       <workItem from="1550706596140" duration="3287000" />
       <workItem from="1550730409828" duration="3154000" />
-      <workItem from="1550810404871" duration="837000" />
+      <workItem from="1550810404871" duration="6304000" />
+      <workItem from="1550868986287" duration="2276000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -591,11 +620,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550746215771</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Feb22nd2019-001">
+      <created>1550811422671</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1550811422671</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="191983000" />
+    <option name="totallyTimeSpent" value="199726000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -608,8 +644,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4957507" visible="true" weight="0.30063966" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4957507" visible="true" weight="0.30383795" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -619,13 +656,13 @@
       <window_info id="Favorites" order="7" sideWeight="0.5042493" side_tool="true" weight="0.3378016" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3275488" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2570499" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.2570499" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32921347" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32921347" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.2570499" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286334" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3275488" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -679,7 +716,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Jan16th2018-004" />
     <MESSAGE value="Jan16th2018-005" />
     <MESSAGE value="Jan16th2018-006" />
     <MESSAGE value="Jan17th2018-001" />
@@ -704,12 +740,10 @@
     <MESSAGE value="Feb9th2019-001" />
     <MESSAGE value="Feb10th2019-001" />
     <MESSAGE value="Feb21st2019-001" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feb21st2019-001" />
+    <MESSAGE value="Feb22nd2019-001" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feb22nd2019-001" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practise/src/Mortal.java" />
-    <entry file="file://$PROJECT_DIR$/practise/src/ADAPHero.java" />
-    <entry file="file://$PROJECT_DIR$/practise/src/HealSupport.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/APHero.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/ADHero.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/Nov7th2018.java">
@@ -995,10 +1029,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/javacore1/CalendarTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        <state relative-caret-position="256">
+          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/javacore1/Employee.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/javacore1/EmployeeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/javacore1/StaticTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          <folding>
+            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#901#902#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#999#1000#0" expanded="true" />
+            <element signature="e#1124#1125#0" expanded="true" />
+            <element signature="e#1161#1162#0" expanded="true" />
           </folding>
         </state>
       </provider>
