@@ -1,4 +1,4 @@
-package javacore1;
+/*package javacore1;
 
 public class StaticTest {
     public static void main(String[] args) {
@@ -46,5 +46,5 @@ public class StaticTest {
             Employee e = new Employee("Harry", 50000);
             System.out.println(e.getName()+" "+e.getSalary());
         }
-    }
+    }*/
 
