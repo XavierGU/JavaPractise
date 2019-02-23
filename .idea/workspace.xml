@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practise/src/javacore1/ParamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/javacore1/AbstractClasses/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/javacore1/AbstractClasses/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/javacore1/AbstractClasses/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/javacore1/ConstructorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/javacore1/inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/javacore1/inheritance/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/javacore1/inheritance/ManagerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/javacore1/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/javacore1/StaticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/src/javacore1/ParamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/javacore1/ParamTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,22 +28,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practise/src/javacore1/EmployeeTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practise/src/javacore1/AbstractClasses/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="39" selection-end-column="9" />
+            <state relative-caret-position="176">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practise/src/javacore1/ParamTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practise/src/javacore1/AbstractClasses/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1040">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="352">
+              <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
               <folding>
-                <element signature="e#1683#1684#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practise/src/javacore1/AbstractClasses/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+              <folding>
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,13 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practise/src/Mortal.java" />
-        <option value="$PROJECT_DIR$/practise/src/Nov10th2018.java" />
-        <option value="$PROJECT_DIR$/practise/src/ADAPHero.java" />
-        <option value="$PROJECT_DIR$/practise/src/APHero.java" />
-        <option value="$PROJECT_DIR$/practise/src/ADHero.java" />
-        <option value="$PROJECT_DIR$/practise/src/Jan10th2019.java" />
-        <option value="$PROJECT_DIR$/practise/src/Nov13rd2018.java" />
         <option value="$PROJECT_DIR$/practise/src/Item.java" />
         <option value="$PROJECT_DIR$/practise/src/Weapon.java" />
         <option value="$PROJECT_DIR$/practise/src/oct11st2018.java" />
@@ -113,6 +136,13 @@
         <option value="$PROJECT_DIR$/practise/src/javacore1/EmployeeTest.java" />
         <option value="$PROJECT_DIR$/practise/src/javacore1/StaticTest.java" />
         <option value="$PROJECT_DIR$/practise/src/javacore1/ParamTest.java" />
+        <option value="$PROJECT_DIR$/practise/src/javacore1/ConstructorTest.java" />
+        <option value="$PROJECT_DIR$/practise/src/javacore1/inheritance/Employee.java" />
+        <option value="$PROJECT_DIR$/practise/src/javacore1/inheritance/Manager.java" />
+        <option value="$PROJECT_DIR$/practise/src/javacore1/inheritance/ManagerTest.java" />
+        <option value="$PROJECT_DIR$/practise/src/javacore1/AbstractClasses/Person.java" />
+        <option value="$PROJECT_DIR$/practise/src/javacore1/AbstractClasses/Employee.java" />
+        <option value="$PROJECT_DIR$/practise/src/javacore1/AbstractClasses/Student.java" />
       </list>
     </option>
   </component>
@@ -128,6 +158,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,6 +193,13 @@
               <item name="javapractise" type="b2602c69:ProjectViewProjectNode" />
               <item name="practise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javacore1" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractClasses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javapractise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="property" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -169,13 +207,12 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550877000425" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550925061155" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -200,9 +237,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ParamTest">
-    <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore1.CalendarTest" />
+  <component name="RunManager" selected="Application.PersonTest">
+    <configuration name="ConstructorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore1.ConstructorTest" />
       <module name="practise" />
       <extension name="coverage">
         <pattern>
@@ -214,25 +251,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore1.EmployeeTest" />
+    <configuration name="ManagerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore1.inheritance.ManagerTest" />
       <module name="practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacore1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LotteryArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore1.LotteryArray" />
-      <module name="practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacore1.*" />
+          <option name="PATTERN" value="javacore1.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,6 +270,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javacore1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore1.AbstractClasses.PersonTest" />
+      <module name="practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacore1.AbstractClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,19 +304,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LotteryArray" />
-      <item itemvalue="Application.CalendarTest" />
-      <item itemvalue="Application.EmployeeTest" />
       <item itemvalue="Application.StaticTest" />
       <item itemvalue="Application.ParamTest" />
+      <item itemvalue="Application.ConstructorTest" />
+      <item itemvalue="Application.ManagerTest" />
+      <item itemvalue="Application.PersonTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonTest" />
+        <item itemvalue="Application.ManagerTest" />
+        <item itemvalue="Application.ConstructorTest" />
         <item itemvalue="Application.ParamTest" />
         <item itemvalue="Application.StaticTest" />
-        <item itemvalue="Application.EmployeeTest" />
-        <item itemvalue="Application.CalendarTest" />
-        <item itemvalue="Application.LotteryArray" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +382,8 @@
       <workItem from="1550706596140" duration="3287000" />
       <workItem from="1550730409828" duration="3154000" />
       <workItem from="1550810404871" duration="6304000" />
-      <workItem from="1550868986287" duration="6482000" />
+      <workItem from="1550868986287" duration="9619000" />
+      <workItem from="1550895323929" duration="6128000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -627,11 +665,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550872180261</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Feb23rd2019-002">
+      <created>1550877018098</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1550877018098</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203932000" />
+    <option name="totallyTimeSpent" value="213197000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -646,7 +691,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4957507" visible="true" weight="0.30383795" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4957507" visible="true" weight="0.30703625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -656,7 +701,7 @@
       <window_info id="Favorites" order="7" sideWeight="0.5042493" side_tool="true" weight="0.3378016" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3275488" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.2570499" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.2570499" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -716,7 +761,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Jan16th2018-006" />
     <MESSAGE value="Jan17th2018-001" />
     <MESSAGE value="Jan17th2018-002" />
     <MESSAGE value="Jan23rd2019-001" />
@@ -741,52 +785,10 @@
     <MESSAGE value="Feb21st2019-001" />
     <MESSAGE value="Feb22nd2019-001" />
     <MESSAGE value="Feb23rd2019-001" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feb23rd2019-001" />
+    <MESSAGE value="Feb23rd2019-002" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feb23rd2019-002" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practise/src/ADHero.java" />
-    <entry file="file://$PROJECT_DIR$/practise/src/Nov7th2018.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="107" column="42" selection-start-line="107" selection-start-column="42" selection-end-line="107" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/Nov10th2018.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="98" column="5" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/Nov11st2018.java" />
-    <entry file="file://$PROJECT_DIR$/practise/src/Jan10th2019.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/Nov13rd2018.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/oct11st2018.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/Support.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -1036,13 +1038,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/javacore1/Employee.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/javacore1/Employee.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/javacore1/EmployeeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="288">
           <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/javacore1/ParamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/javacore1/ConstructorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/javacore1/inheritance/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/javacore1/inheritance/ManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/javacore1/inheritance/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1053,12 +1100,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/javacore1/ParamTest.java">
+    <entry file="file://$PROJECT_DIR$/practise/src/javacore1/AbstractClasses/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1040">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="352">
+          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
           <folding>
-            <element signature="e#1683#1684#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/javacore1/AbstractClasses/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/javacore1/AbstractClasses/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
           </folding>
         </state>
       </provider>

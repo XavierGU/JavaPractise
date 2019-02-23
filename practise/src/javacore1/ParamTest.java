@@ -1,3 +1,4 @@
+/*
 package javacore1;
 
 public class ParamTest {
@@ -63,3 +64,4 @@ class Employee {
     }
 
 }
+*/
