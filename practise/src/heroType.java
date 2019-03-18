@@ -1,3 +1,0 @@
-public enum heroType {
-    TANK, WIZARD, ASSASSIN, ASSIST, WARRIOR, RANGER, PUSH, FARMING
-}
