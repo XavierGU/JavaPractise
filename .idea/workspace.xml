@@ -2,69 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practise/src/TestCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practise/src/charactor/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Armor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Hero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Jan10th2019.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Nov10th2018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Nov13rd2018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Nov1st2018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Nov2nd2018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Nov3rd2018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Nov7th2018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Nov9th2018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Oct18th2018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Oct22nd2018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Oct25th2018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Oct30th2018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Oct31st2018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/Support.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/AD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/ADAPHero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/ADHero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/AP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/APHero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/GiantDragon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/Healer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/Hero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/LOL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/NewTestString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/SPHero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/TestChar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/TestGIantDragon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/TestString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/mortal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/character/testHero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/collection/MyStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/collection/Stack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/collection/TestCollection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/date/TestDate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/digit/TestNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/digit/huangHe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/heroType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/javacore1/AbstractClasses/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/javacore1/AbstractClasses/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/javacore1/AbstractClasses/PersonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/javacore1/AbstractClasses/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/javacore1/CalendarTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/javacore1/CompoundInterest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/javacore1/ConstructorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/javacore1/EmployeeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/javacore1/LotteryArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/javacore1/LotteryOdds.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/javacore1/ParamTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/javacore1/StaticTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/javacore1/inheritance/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/javacore1/inheritance/Manager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/javacore1/inheritance/ManagerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/oct10th18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/oct11st2018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise/src/property/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/src/TestCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/TestCollection.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practise/src/TestCollection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            <state relative-caret-position="224">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -217,7 +156,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552915552162" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552915944978" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -383,7 +322,7 @@
       <workItem from="1550810404871" duration="6304000" />
       <workItem from="1550868986287" duration="9619000" />
       <workItem from="1550895323929" duration="6128000" />
-      <workItem from="1552913877962" duration="1220000" />
+      <workItem from="1552913877962" duration="1490000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -672,11 +611,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550877018098</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Mar18th2019">
+      <created>1552915581498</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1552915581498</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="214417000" />
+    <option name="totallyTimeSpent" value="214687000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -761,7 +707,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Jan17th2018-001" />
     <MESSAGE value="Jan17th2018-002" />
     <MESSAGE value="Jan23rd2019-001" />
     <MESSAGE value="Jan23rd2019-002" />
@@ -786,7 +731,8 @@
     <MESSAGE value="Feb22nd2019-001" />
     <MESSAGE value="Feb23rd2019-001" />
     <MESSAGE value="Feb23rd2019-002" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feb23rd2019-002" />
+    <MESSAGE value="Mar18th2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mar18th2019" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/practise/src/Hero.java">
@@ -1146,8 +1092,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/TestCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        <state relative-caret-position="224">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
