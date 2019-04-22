@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practise/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/jfx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/jfx3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,15 +23,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practise/src/Student.java">
+        <entry file="file://$PROJECT_DIR$/practise/src/jfx3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="360">
+              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
               <folding>
-                <element signature="e#81#82#0" expanded="true" />
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#142#143#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,8 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practise/src/Hero.java" />
-        <option value="$PROJECT_DIR$/practise/src/Armor.java" />
         <option value="$PROJECT_DIR$/practise/src/character/TestGIantDragon.java" />
         <option value="$PROJECT_DIR$/practise/src/character/GiantDragon.java" />
         <option value="$PROJECT_DIR$/practise/src/property/testItem.java" />
@@ -106,6 +104,8 @@
         <option value="$PROJECT_DIR$/practise/src/TestOverload.java" />
         <option value="$PROJECT_DIR$/practise/src/Recurse.java" />
         <option value="$PROJECT_DIR$/practise/src/Student.java" />
+        <option value="$PROJECT_DIR$/practise/src/jfx2.java" />
+        <option value="$PROJECT_DIR$/practise/src/jfx3.java" />
       </list>
     </option>
   </component>
@@ -147,7 +147,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555932133403" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555935394592" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -172,33 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Student">
-    <configuration name="ManagerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore1.inheritance.ManagerTest" />
-      <module name="practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacore1.inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore1.AbstractClasses.PersonTest" />
-      <module name="practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacore1.AbstractClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.jfx3">
     <configuration name="Recurse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recurse" />
       <module name="practise" />
@@ -220,20 +194,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="jfx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jfx2" />
+      <module name="practise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jfx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jfx3" />
+      <module name="practise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ManagerTest" />
-      <item itemvalue="Application.PersonTest" />
       <item itemvalue="Application.TestOverload" />
       <item itemvalue="Application.Recurse" />
       <item itemvalue="Application.Student" />
+      <item itemvalue="Application.jfx2" />
+      <item itemvalue="Application.jfx3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.jfx3" />
+        <item itemvalue="Application.jfx2" />
         <item itemvalue="Application.Student" />
         <item itemvalue="Application.Recurse" />
         <item itemvalue="Application.TestOverload" />
-        <item itemvalue="Application.PersonTest" />
-        <item itemvalue="Application.ManagerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +299,7 @@
       <workItem from="1553401163178" duration="45000" />
       <workItem from="1555847161597" duration="1332000" />
       <workItem from="1555849036136" duration="2362000" />
-      <workItem from="1555930653942" duration="1340000" />
+      <workItem from="1555930653942" duration="4724000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -607,11 +595,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555856603320</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Apr22 2019-001">
+      <created>1555932166014</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1555932166014</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220166000" />
+    <option name="totallyTimeSpent" value="223550000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -636,7 +631,7 @@
       <window_info id="Favorites" order="7" sideWeight="0.5042493" side_tool="true" weight="0.3378016" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3275488" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.25617978" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.25520262" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -644,7 +639,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32921347" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.2570499" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286334" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3269663" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3263965" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -696,7 +691,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Jan17th2018-002" />
     <MESSAGE value="Jan23rd2019-001" />
     <MESSAGE value="Jan23rd2019-002" />
     <MESSAGE value="Jan24th2019-001" />
@@ -721,11 +715,10 @@
     <MESSAGE value="Feb23rd2019-001" />
     <MESSAGE value="Feb23rd2019-002" />
     <MESSAGE value="Apr212019-001" />
-    <option name="LAST_COMMIT_MESSAGE" value="Apr212019-001" />
+    <MESSAGE value="Apr22 2019-001" />
+    <option name="LAST_COMMIT_MESSAGE" value="Apr22 2019-001" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practise/src/property/Weapon.java" />
-    <entry file="file://$PROJECT_DIR$/practise/src/property/testItem.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/character/TestGIantDragon.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/heroType.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/physicalAttack.java" />
@@ -778,16 +771,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/jfxHELLOWORLD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/Recurse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="558">
@@ -797,13 +780,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="54">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
           <folding>
             <element signature="e#81#82#0" expanded="true" />
             <element signature="e#117#118#0" expanded="true" />
             <element signature="e#142#143#0" expanded="true" />
             <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/jfxHELLOWORLD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/jfx2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="56" column="24" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/jfx3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
           </folding>
         </state>
       </provider>
