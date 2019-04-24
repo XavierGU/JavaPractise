@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practise/src/jfx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practise/src/jfx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/practise/src/Student.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,15 +22,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practise/src/jfx3.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practise/src/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            <state relative-caret-position="306">
+              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practise/src/point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practise/src/character/TestGIantDragon.java" />
         <option value="$PROJECT_DIR$/practise/src/character/GiantDragon.java" />
         <option value="$PROJECT_DIR$/practise/src/property/testItem.java" />
         <option value="$PROJECT_DIR$/practise/src/heroType.java" />
@@ -103,9 +110,10 @@
         <option value="$PROJECT_DIR$/practise/src/jfxHELLOWORLD.java" />
         <option value="$PROJECT_DIR$/practise/src/TestOverload.java" />
         <option value="$PROJECT_DIR$/practise/src/Recurse.java" />
-        <option value="$PROJECT_DIR$/practise/src/Student.java" />
         <option value="$PROJECT_DIR$/practise/src/jfx2.java" />
         <option value="$PROJECT_DIR$/practise/src/jfx3.java" />
+        <option value="$PROJECT_DIR$/practise/src/Student.java" />
+        <option value="$PROJECT_DIR$/practise/src/point.java" />
       </list>
     </option>
   </component>
@@ -120,6 +128,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,22 +141,17 @@
               <item name="practise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="javapractise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555935394592" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556109168424" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -172,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.jfx3">
+  <component name="RunManager" selected="Application.testContructor">
     <configuration name="Recurse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recurse" />
       <module name="practise" />
@@ -182,13 +186,6 @@
     </configuration>
     <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Student" />
-      <module name="practise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestOverload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestOverload" />
       <module name="practise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -208,20 +205,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="testContructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testContructor" />
+      <module name="practise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.TestOverload" />
       <item itemvalue="Application.Recurse" />
       <item itemvalue="Application.Student" />
       <item itemvalue="Application.jfx2" />
       <item itemvalue="Application.jfx3" />
+      <item itemvalue="Application.testContructor" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testContructor" />
+        <item itemvalue="Application.Student" />
         <item itemvalue="Application.jfx3" />
         <item itemvalue="Application.jfx2" />
-        <item itemvalue="Application.Student" />
         <item itemvalue="Application.Recurse" />
-        <item itemvalue="Application.TestOverload" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +303,9 @@
       <workItem from="1553401163178" duration="45000" />
       <workItem from="1555847161597" duration="1332000" />
       <workItem from="1555849036136" duration="2362000" />
-      <workItem from="1555930653942" duration="4724000" />
+      <workItem from="1555930653942" duration="5362000" />
+      <workItem from="1555945938357" duration="23000" />
+      <workItem from="1556106051365" duration="1599000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -602,11 +608,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555932166014</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Apr22 2019-002 java fx">
+      <created>1555935430559</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1555935430559</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="223550000" />
+    <option name="totallyTimeSpent" value="225810000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -691,7 +704,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Jan23rd2019-001" />
     <MESSAGE value="Jan23rd2019-002" />
     <MESSAGE value="Jan24th2019-001" />
     <MESSAGE value="Jan25th2019-001" />
@@ -716,10 +728,10 @@
     <MESSAGE value="Feb23rd2019-002" />
     <MESSAGE value="Apr212019-001" />
     <MESSAGE value="Apr22 2019-001" />
-    <option name="LAST_COMMIT_MESSAGE" value="Apr22 2019-001" />
+    <MESSAGE value="Apr22 2019-002 java fx" />
+    <option name="LAST_COMMIT_MESSAGE" value="Apr22 2019-002 java fx" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practise/src/character/TestGIantDragon.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/heroType.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/physicalAttack.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/AD.java" />
@@ -778,19 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practise/src/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-          <folding>
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/jfxHELLOWORLD.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -813,12 +812,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practise/src/jfx3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="324">
           <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
           </folding>
         </state>
       </provider>
