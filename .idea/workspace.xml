@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ecf5bc0-e42a-43ac-abe9-d140eefbcf61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practise/src/TestThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/TestUser1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/src/User4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,11 +22,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practise/src/TestThis.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practise/src/TestUser1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <folding>
+                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practise/src/User4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,8 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practise/src/property/testItem.java" />
-        <option value="$PROJECT_DIR$/practise/src/heroType.java" />
         <option value="$PROJECT_DIR$/practise/src/HelloWorld.java" />
         <option value="$PROJECT_DIR$/practise/src/physicalAttack.java" />
         <option value="$PROJECT_DIR$/practise/src/AD.java" />
@@ -100,6 +129,8 @@
         <option value="$PROJECT_DIR$/practise/src/Student.java" />
         <option value="$PROJECT_DIR$/practise/src/point.java" />
         <option value="$PROJECT_DIR$/practise/src/TestThis.java" />
+        <option value="$PROJECT_DIR$/practise/src/TestUser1.java" />
+        <option value="$PROJECT_DIR$/practise/src/User4.java" />
       </list>
     </option>
   </component>
@@ -114,8 +145,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,7 +168,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556205225840" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556806217471" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -162,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestThis">
+  <component name="RunManager" selected="Application.User4">
     <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Student" />
       <module name="practise" />
@@ -177,15 +208,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jfx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jfx2" />
+    <configuration name="TestUser1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestUser1" />
       <module name="practise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jfx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jfx3" />
+    <configuration name="User4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="User4" />
       <module name="practise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -200,18 +231,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Student" />
-      <item itemvalue="Application.jfx2" />
-      <item itemvalue="Application.jfx3" />
       <item itemvalue="Application.testContructor" />
       <item itemvalue="Application.TestThis" />
+      <item itemvalue="Application.TestUser1" />
+      <item itemvalue="Application.User4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.User4" />
+        <item itemvalue="Application.TestUser1" />
         <item itemvalue="Application.TestThis" />
         <item itemvalue="Application.testContructor" />
         <item itemvalue="Application.Student" />
-        <item itemvalue="Application.jfx3" />
-        <item itemvalue="Application.jfx2" />
       </list>
     </recent_temporary>
   </component>
@@ -293,6 +324,7 @@
       <workItem from="1555945938357" duration="23000" />
       <workItem from="1556106051365" duration="2295000" />
       <workItem from="1556204780816" duration="245000" />
+      <workItem from="1556800904336" duration="2975000" />
     </task>
     <task id="LOCAL-00001" summary="Oct31st2018">
       <created>1540989345995</created>
@@ -613,7 +645,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="226751000" />
+    <option name="totallyTimeSpent" value="229726000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -628,7 +660,7 @@
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4957507" visible="true" weight="0.3402626" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4957507" visible="true" weight="0.34792122" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -726,8 +758,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Apr24 2019-001" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practise/src/physicalAttack.java" />
-    <entry file="file://$PROJECT_DIR$/practise/src/AD.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/character/testHero.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/character/AP.java" />
     <entry file="file://$PROJECT_DIR$/practise/src/character/Healer.java" />
@@ -835,6 +865,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/TestUser1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise/src/User4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
